@@ -1,0 +1,377 @@
+{
+  "id": "1.8",
+  "titulo": "Organismos de control: Ministerio Público, Procuraduría, Defensoría y Contraloría",
+  "normas": ["Constitución Política: arts. 117–118, 267–284", "Decreto Ley 262 de 2000, modificado por el Decreto Ley 1851 de 2021", "Ley 1952 de 2019, reformada por la Ley 2094 de 2021 (Código General Disciplinario)", "Acto Legislativo 04 de 2019 (control fiscal)"],
+  "objetivos": [
+    "Explicar qué es el Ministerio Público, quiénes lo ejercen y cuáles son sus tres grandes funciones (art. 118).",
+    "Conocer la elección, el periodo y las funciones del Procurador General (arts. 275–278), distinguiendo las que ejerce directamente.",
+    "Ubicar al Defensor del Pueblo dentro del Ministerio Público y sus funciones (arts. 281–282).",
+    "Diferenciar el control disciplinario (PGN) del control fiscal (Contraloría) y conocer la Auditoría General."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. ¿Qué es el Ministerio Público? (arts. 117 y 118)",
+      "parrafos": [
+        "El <b>Ministerio Público</b> es, junto con la Contraloría General de la República, uno de los dos <b>órganos de control</b> del Estado (art. 117). Es autónomo e independiente: no pertenece a ninguna rama del poder.",
+        "Lo ejercen: el <b>Procurador General de la Nación</b>, el <b>Defensor del Pueblo</b>, los <b>procuradores delegados</b>, los <b>agentes del Ministerio Público ante las autoridades jurisdiccionales</b>, los <b>personeros municipales</b> y los demás funcionarios que determine la ley.",
+        "Le corresponden tres grandes tareas (art. 118): <b>(1) la guarda y promoción de los derechos humanos, (2) la protección del interés público y (3) la vigilancia de la conducta oficial</b> de quienes desempeñan funciones públicas. Truco [COMPLEMENTARIO]: “<b>Derechos – Interés público – Conducta</b>”."
+      ]
+    },
+    {
+      "subtitulo": "2. El Procurador General (arts. 275–278)",
+      "parrafos": [
+        "Es el <b>supremo director del Ministerio Público</b> (art. 275). Lo elige el <b>Senado</b> para un periodo de <b>4 años</b>, de <b>terna</b> integrada por candidatos del <b>Presidente de la República, la Corte Suprema de Justicia y el Consejo de Estado</b> (art. 276).",
+        "<b>Art. 277 – funciones que ejerce por sí o por medio de sus delegados y agentes</b>: 1) vigilar el cumplimiento de la Constitución, las leyes, las decisiones judiciales y los actos administrativos; 2) proteger los derechos humanos y asegurar su efectividad, con el auxilio del Defensor del Pueblo; 3) defender los intereses de la sociedad; 4) defender los intereses colectivos, en especial el ambiente; 5) velar por el ejercicio diligente y eficiente de las funciones administrativas; 6) <b>ejercer vigilancia superior de la conducta oficial</b> de quienes desempeñen funciones públicas, <b>inclusive las de elección popular</b>; <b>ejercer preferentemente el poder disciplinario</b>; adelantar las investigaciones e imponer las sanciones conforme a la ley; 7) intervenir en los procesos y ante las autoridades judiciales o administrativas, cuando sea necesario en defensa del orden jurídico, del patrimonio público o de los derechos y garantías fundamentales; 8) rendir anualmente informe de su gestión al Congreso; 9) exigir a los funcionarios públicos y a los particulares la información que considere necesaria; 10) las demás que determine la ley. Para ello tiene <b>atribuciones de policía judicial</b> y puede <b>interponer las acciones que considere necesarias</b>.",
+        "<b>Art. 278 – funciones que ejerce directamente</b> (no delegables): 1) <b>desvincular del cargo, previa audiencia y mediante decisión motivada</b>, al funcionario que infrinja de manera manifiesta la Constitución o la ley, derive evidente e indebido provecho patrimonial, obstaculice gravemente las investigaciones u obre con manifiesta negligencia en investigar y sancionar faltas disciplinarias de sus empleados o en denunciar delitos; 2) emitir conceptos en los procesos disciplinarios contra funcionarios con fuero especial; 3) presentar proyectos de ley sobre materias de su competencia; 4) exhortar al Congreso para que expida leyes sobre derechos humanos; 5) <b>rendir concepto en los procesos de control de constitucionalidad</b>; 6) <b>nombrar y remover</b>, conforme a la ley, a los funcionarios y empleados de su dependencia.",
+        "<b>Art. 279</b>: la ley determina la estructura y el funcionamiento de la PGN, el ingreso y concurso de méritos, el retiro, las inhabilidades, incompatibilidades, calidades, remuneración y el régimen disciplinario de sus servidores (hoy, Decreto Ley 262 de 2000, modificado por el Decreto Ley 1851 de 2021). <b>Art. 280</b>: los agentes del Ministerio Público tienen las mismas calidades, categoría, remuneración, derechos y prestaciones que los magistrados y jueces de mayor jerarquía ante quienes ejercen su cargo. <b>Art. 284</b>: salvo excepciones constitucionales y legales, el Procurador y el Defensor pueden requerir a las autoridades la información necesaria <b>sin que pueda oponérseles reserva alguna</b>.",
+        "Contexto actual: el régimen disciplinario está en la <b>Ley 1952 de 2019</b>, reformada por la <b>Ley 2094 de 2021</b>. Tras la sentencia de la Corte Interamericana en el caso Petro Urrego vs. Colombia (2020), esa reforma y la Sentencia C-030 de 2023 de la Corte Constitucional ajustaron el régimen de sanciones a servidores de elección popular; lo estudiarás en detalle en la U8 (área disciplinar). <b>La Ley 734 de 2002 está derogada.</b>"
+      ]
+    },
+    {
+      "subtitulo": "3. El Defensor del Pueblo (arts. 281–282)",
+      "parrafos": [
+        "El Defensor del Pueblo <b>forma parte del Ministerio Público</b> y ejerce sus funciones <b>bajo la suprema dirección del Procurador</b>. Lo elige la <b>Cámara de Representantes</b> para un periodo de <b>4 años</b>, de terna elaborada por el <b>Presidente</b> (art. 281).",
+        "Funciones (art. 282): orientar e instruir a los habitantes en el ejercicio y defensa de sus derechos; divulgar los derechos humanos; <b>invocar el habeas corpus e interponer acciones de tutela</b>; <b>organizar y dirigir la defensoría pública</b>; <b>interponer acciones populares</b>; presentar proyectos de ley sobre su competencia; rendir informes al Congreso."
+      ]
+    },
+    {
+      "subtitulo": "4. La Contraloría y el control fiscal (arts. 267–274)",
+      "parrafos": [
+        "El <b>control fiscal</b> es una función pública que ejerce la <b>Contraloría General de la República</b>: vigila la <b>gestión fiscal</b> de la administración y de los <b>particulares o entidades que manejen fondos o bienes públicos</b>. Desde el <b>Acto Legislativo 04 de 2019</b>, se ejerce en forma <b>posterior y selectiva</b> y, además, puede ser <b>preventivo y concomitante</b>, sin que ello implique coadministración. El Contralor es elegido por el <b>Congreso en pleno</b> para un periodo de <b>4 años</b>, de una lista de elegibles conformada por convocatoria pública.",
+        "Le corresponde, entre otras cosas, <b>establecer la responsabilidad fiscal</b>, imponer sanciones pecuniarias y ejercer la jurisdicción coactiva sobre los alcances deducidos. En departamentos, distritos y municipios hay contralorías territoriales (art. 272). La vigilancia de la gestión fiscal de la propia Contraloría la ejerce un <b>auditor</b> (Auditoría General de la República) elegido para 4 años por el <b>Consejo de Estado</b> de terna enviada por la <b>Corte Suprema</b> (art. 274).",
+        "Resumen de responsabilidades por una misma conducta irregular: <b>disciplinaria</b> → Procuraduría (o control interno disciplinario); <b>fiscal</b> → Contraloría; <b>penal</b> → Fiscalía y jueces. Son independientes entre sí."
+      ]
+    }
+  ],
+  "conceptos": [
+    {"termino": "Ministerio Público", "definicion": "Órgano de control que guarda y promueve los derechos humanos, protege el interés público y vigila la conducta oficial (art. 118)."},
+    {"termino": "Supremo director del Ministerio Público", "definicion": "El Procurador General de la Nación (art. 275)."},
+    {"termino": "Poder disciplinario preferente", "definicion": "La PGN puede asumir investigaciones disciplinarias que adelanten otras autoridades (control interno disciplinario, personerías) (art. 277-6)."},
+    {"termino": "Funciones directas del Procurador", "definicion": "Las del art. 278, que ejerce personalmente (p. ej., desvincular previa audiencia, conceptos de constitucionalidad, nombrar y remover)."},
+    {"termino": "Agente del Ministerio Público", "definicion": "Procurador judicial que interviene ante jueces y magistrados con su misma categoría y remuneración (art. 280)."},
+    {"termino": "Defensor del Pueblo", "definicion": "Parte del Ministerio Público, bajo la suprema dirección del Procurador; elegido por la Cámara de terna del Presidente."},
+    {"termino": "Control fiscal", "definicion": "Vigilancia de la gestión fiscal de quienes manejan recursos públicos; posterior y selectivo, y también preventivo y concomitante."},
+    {"termino": "Responsabilidad fiscal", "definicion": "Responsabilidad patrimonial que declara la Contraloría por daño al patrimonio público derivado de la gestión fiscal."},
+    {"termino": "Auditoría General de la República", "definicion": "Vigila la gestión fiscal de la Contraloría (art. 274)."}
+  ],
+  "confusiones": [
+    {"concepto": "Procurador: elegido por el <b>Senado</b>", "seConfundeCon": "Defensor: elegido por la <b>Cámara</b>; Contralor: por el <b>Congreso en pleno</b>", "diferencia": "Procurador → Senado (terna Presidente, CSJ, CE). Defensor → Cámara (terna del Presidente). Contralor → Congreso en pleno (lista de elegibles). Todos por 4 años."},
+    {"concepto": "Art. <b>277</b> (por sí o por delegados)", "seConfundeCon": "Art. <b>278</b> (directamente)", "diferencia": "El 277 recoge funciones delegables (vigilar, proteger DD. HH., intervenir en procesos). El 278 las personales (desvincular previa audiencia, concepto de constitucionalidad, nombrar y remover)."},
+    {"concepto": "Control <b>disciplinario</b> (PGN)", "seConfundeCon": "Control <b>fiscal</b> (Contraloría)", "diferencia": "El disciplinario juzga la conducta del servidor frente a sus deberes. El fiscal establece responsabilidad patrimonial por el manejo de recursos públicos."},
+    {"concepto": "Defensor del Pueblo", "seConfundeCon": "Órgano independiente del Ministerio Público", "diferencia": "El Defensor forma parte del Ministerio Público y actúa bajo la suprema dirección del Procurador."},
+    {"concepto": "Auditoría General", "seConfundeCon": "Contraloría General", "diferencia": "La Contraloría vigila a la administración; la Auditoría vigila a la Contraloría."},
+    {"concepto": "Personero municipal", "seConfundeCon": "Contralor municipal", "diferencia": "El personero integra el Ministerio Público (derechos, interés público, conducta oficial); el contralor ejerce control fiscal."}
+  ],
+  "procuraduria": [
+    "Esta lección es la base constitucional de tu futuro empleador: la PGN dirige el Ministerio Público y ejerce funciones <b>preventivas, de intervención y disciplinarias</b>.",
+    "Los cargos convocados en la 252-2026 se ubican en la División de Gestión Humana, en procuradurías regionales/provinciales de instrucción y en la Procuraduría Delegada con Funciones Mixtas 9 para el seguimiento a los recursos del Sistema General de Regalías; los procesos indicados son <b>Talento Humano, Preventivo y Disciplinario</b>.",
+    "La facultad del art. 284 (pedir información sin que se oponga reserva) explica por qué el técnico debe tramitar con rigor los requerimientos de información que hace la PGN y los que recibe.",
+    "El art. 278-6 (nombrar y remover) y el art. 279 (concurso de méritos) son el fundamento del concurso en el que participas."
+  ],
+  "altaProbabilidad": [
+    "Art. 118: quiénes ejercen el Ministerio Público y sus tres funciones.",
+    "Art. 275: supremo director del MP = Procurador.",
+    "Art. 276: Senado, 4 años, terna Presidente–Corte Suprema–Consejo de Estado.",
+    "Art. 277-6: vigilancia superior de la conducta oficial, incluso de elección popular; poder disciplinario preferente.",
+    "Art. 278: funciones directas (desvincular previa audiencia; concepto en constitucionalidad; nombrar y remover).",
+    "Art. 281: Defensor elegido por la Cámara, de terna del Presidente, bajo dirección del Procurador.",
+    "Contraloría: control fiscal posterior y selectivo + preventivo y concomitante."
+  ],
+  "ejemplos": [
+    {"titulo": "Tres responsabilidades, tres órganos", "caso": "Un alcalde pagó una obra que nunca se ejecutó.", "analisis": "La PGN investiga la falta disciplinaria; la Contraloría establece la responsabilidad fiscal por el detrimento patrimonial; la Fiscalía investiga los posibles delitos. Las tres actuaciones son independientes."},
+    {"titulo": "Poder preferente", "caso": "La oficina de control interno disciplinario de un ministerio adelanta una investigación de gran impacto y la PGN decide asumirla.", "analisis": "Ejerce el poder disciplinario preferente del art. 277-6; la oficina de control interno pierde la competencia en ese caso."},
+    {"titulo": "Requerimiento de información", "caso": "Una procuraduría provincial pide a una alcaldía copia de contratos y la alcaldía responde que son “reservados”.", "analisis": "Salvo excepciones legales, no se puede oponer reserva al Procurador (art. 284); además, la PGN puede exigir la información (art. 277-9)."}
+  ],
+  "repaso": [
+    "MP = Procurador + Defensor + delegados + agentes judiciales + personeros.",
+    "Funciones del MP: derechos humanos, interés público, conducta oficial.",
+    "Procurador: Senado, 4 años, terna P–CSJ–CE; supremo director del MP.",
+    "277 delegables · 278 directas.",
+    "Contraloría: control fiscal; Auditoría vigila a la Contraloría."
+  ],
+  "preguntas": [
+    {
+      "id": "1.8-01", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Según el artículo 275, el supremo director del Ministerio Público es:",
+      "opciones": ["El Defensor del Pueblo.", "El Procurador General de la Nación.", "El Contralor General de la República.", "El Fiscal General de la Nación."],
+      "correcta": 1,
+      "explicaciones": [
+        "El Defensor forma parte del Ministerio Público, pero bajo la dirección del Procurador.",
+        "Correcto: art. 275.",
+        "El Contralor dirige el control fiscal, no el Ministerio Público.",
+        "El Fiscal pertenece a la Rama Judicial."
+      ],
+      "concepto": "Procurador: supremo director del Ministerio Público."
+    },
+    {
+      "id": "1.8-02", "nivel": 1, "tipo": "multiple",
+      "enunciado": "El Procurador General de la Nación es elegido:",
+      "opciones": [
+        "Por la Cámara de Representantes, de terna del Presidente, para 4 años.",
+        "Por el Senado, de terna integrada por candidatos del Presidente, la Corte Suprema y el Consejo de Estado, para 4 años.",
+        "Por el Congreso en pleno, de lista de elegibles, para 4 años.",
+        "Por el Presidente de la República, de terna del Senado, para 4 años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Así se elige al Defensor del Pueblo.",
+        "Correcto: art. 276.",
+        "Así se elige al Contralor General.",
+        "El Presidente solo postula un candidato a la terna."
+      ],
+      "concepto": "Elección del Procurador (art. 276)."
+    },
+    {
+      "id": "1.8-03", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Según el artículo 118, ejercen el Ministerio Público, entre otros:",
+      "opciones": [
+        "El Procurador, el Defensor del Pueblo y los personeros municipales.",
+        "El Procurador, el Contralor y los contralores territoriales.",
+        "El Procurador, el Fiscal y los jueces de la República.",
+        "El Procurador, el Registrador y los personeros municipales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: junto con los procuradores delegados, los agentes ante las autoridades jurisdiccionales y los demás que determine la ley.",
+        "Los contralores ejercen control fiscal, no el Ministerio Público.",
+        "El Fiscal y los jueces pertenecen a la Rama Judicial.",
+        "El Registrador integra la organización electoral."
+      ],
+      "concepto": "Integrantes del Ministerio Público (art. 118)."
+    },
+    {
+      "id": "1.8-04", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Llega a la Procuraduría una queja contra un concejal por su conducta en el ejercicio del cargo. Un compañero afirma que la PGN no puede vigilar a servidores de elección popular. Según el artículo 277-6, eso es:",
+      "opciones": [
+        "Correcto, porque solo el Concejo puede vigilar a sus miembros.",
+        "Incorrecto, porque el Procurador ejerce vigilancia superior de la conducta oficial de quienes desempeñen funciones públicas, inclusive las de elección popular.",
+        "Correcto, porque los concejales solo responden ante sus electores.",
+        "Incorrecto, pero solo si el concejal maneja recursos públicos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Constitución no reserva esa vigilancia al Concejo.",
+        "Correcto: art. 277-6 (el régimen de sanciones a servidores de elección popular tiene reglas especiales que verás en U8).",
+        "La responsabilidad política ante los electores no excluye la vigilancia de la conducta oficial.",
+        "La vigilancia no depende del manejo de recursos."
+      ],
+      "concepto": "Vigilancia de la conducta oficial, incluida la de elección popular (art. 277-6)."
+    },
+    {
+      "id": "1.8-05", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Sobre el Defensor del Pueblo, es correcto afirmar que:",
+      "opciones": [
+        "Es un órgano independiente del Ministerio Público, elegido por el Senado.",
+        "Forma parte del Ministerio Público, actúa bajo la suprema dirección del Procurador y lo elige la Cámara de terna del Presidente.",
+        "Forma parte de la Rama Ejecutiva y lo nombra libremente el Presidente.",
+        "Forma parte de la Rama Judicial y lo elige la Corte Constitucional."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Forma parte del Ministerio Público y no lo elige el Senado.",
+        "Correcto: art. 281.",
+        "No pertenece al Ejecutivo; el Presidente solo elabora la terna.",
+        "No pertenece a la Rama Judicial."
+      ],
+      "concepto": "Defensor del Pueblo (art. 281)."
+    },
+    {
+      "id": "1.8-06", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Según el artículo 267, la Contraloría General de la República vigila:",
+      "opciones": [
+        "La conducta disciplinaria de todos los servidores públicos.",
+        "La gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes públicos.",
+        "El cumplimiento de los fallos de tutela.",
+        "La legalidad de los procesos electorales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La conducta disciplinaria la vigila el Ministerio Público.",
+        "Correcto: art. 267.",
+        "El cumplimiento de la tutela lo verifica el juez.",
+        "Los procesos electorales los vigila la organización electoral (y el Ministerio Público en lo de su competencia)."
+      ],
+      "concepto": "Objeto del control fiscal (art. 267)."
+    },
+    {
+      "id": "1.8-07", "nivel": 2, "tipo": "multiple",
+      "enunciado": "La Procuraduría interviene para frenar la tala ilegal en una reserva forestal. ¿En qué función del artículo 277 se apoya directamente?",
+      "opciones": [
+        "Rendir informe anual al Congreso.",
+        "Defender los intereses colectivos, en especial el ambiente.",
+        "Nombrar y remover a los empleados de su dependencia.",
+        "Emitir conceptos en procesos contra funcionarios con fuero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El informe anual es otra función, no la que justifica la intervención.",
+        "Correcto: numeral 4 del art. 277.",
+        "Es una función directa del art. 278, sin relación con el caso.",
+        "Es una función directa del art. 278, sin relación con el caso."
+      ],
+      "concepto": "Defensa del ambiente (art. 277-4)."
+    },
+    {
+      "id": "1.8-08", "nivel": 3, "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes funciones ejerce el Procurador DIRECTAMENTE, según el artículo 278?",
+      "opciones": [
+        "Vigilar el cumplimiento de la Constitución y las leyes.",
+        "Rendir concepto en los procesos de control de constitucionalidad.",
+        "Intervenir en los procesos judiciales en defensa del orden jurídico.",
+        "Proteger los derechos humanos con el auxilio del Defensor del Pueblo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Es una función del art. 277, que puede ejercer por medio de delegados y agentes.",
+        "Correcto: numeral 5 del art. 278.",
+        "Es una función del art. 277 (numeral 7).",
+        "Es una función del art. 277 (numeral 2)."
+      ],
+      "concepto": "Funciones directas (art. 278) frente a delegables (art. 277)."
+    },
+    {
+      "id": "1.8-09", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Tras el Acto Legislativo 04 de 2019, el control fiscal se ejerce:",
+      "opciones": [
+        "Únicamente en forma previa, antes de cada gasto.",
+        "En forma posterior y selectiva y, además, puede ser preventivo y concomitante, sin coadministración.",
+        "Solo en forma concomitante, mediante interventores en cada entidad.",
+        "En forma previa y perceptiva, con aprobación del Contralor para cada contrato."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El control previo no es la regla constitucional.",
+        "Correcto: art. 267 reformado por el Acto Legislativo 04 de 2019.",
+        "No es exclusivamente concomitante y no implica interventores que coadministren.",
+        "La Contraloría no aprueba previamente cada contrato."
+      ],
+      "concepto": "Modalidades del control fiscal (AL 04 de 2019)."
+    },
+    {
+      "id": "1.8-10", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Una entidad se niega a entregar a la Procuraduría información alegando “reserva interna”. Según el artículo 284:",
+      "opciones": [
+        "La entidad puede negarse si la información es de uso interno.",
+        "Salvo las excepciones previstas en la Constitución y la ley, al Procurador no puede oponérsele reserva alguna.",
+        "La Procuraduría debe pedir orden judicial para acceder a cualquier documento.",
+        "La entidad solo debe entregarla si la solicitud viene firmada por el Procurador General."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La “reserva interna” no es oponible a la Procuraduría.",
+        "Correcto: art. 284.",
+        "No se requiere orden judicial como regla general.",
+        "La facultad se ejerce también por medio de delegados y agentes."
+      ],
+      "concepto": "Acceso a información sin reserva (art. 284)."
+    },
+    {
+      "id": "1.8-11", "nivel": 3, "tipo": "multiple",
+      "enunciado": "¿Quién vigila la gestión fiscal de la Contraloría General de la República?",
+      "opciones": [
+        "La Procuraduría General de la Nación.",
+        "Un auditor elegido por el Consejo de Estado de terna enviada por la Corte Suprema de Justicia.",
+        "La Cámara de Representantes mediante su Comisión de Cuentas.",
+        "La misma Contraloría, mediante autocontrol."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La PGN vigila conductas, no la gestión fiscal de la Contraloría.",
+        "Correcto: art. 274 (Auditoría General de la República).",
+        "La Comisión de Cuentas examina la cuenta general del presupuesto, no es la figura del art. 274.",
+        "La Constitución prevé un control externo."
+      ],
+      "concepto": "Auditoría General de la República (art. 274)."
+    },
+    {
+      "id": "1.8-12", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Según el artículo 280, los agentes del Ministerio Público:",
+      "opciones": [
+        "Tienen las mismas calidades, categoría, remuneración, derechos y prestaciones que los magistrados y jueces de mayor jerarquía ante quienes ejercen el cargo.",
+        "Tienen una remuneración inferior a la de los jueces, por no administrar justicia.",
+        "Son nombrados por los jueces ante los que actúan.",
+        "Tienen las calidades de los empleados de la Rama Ejecutiva."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 280.",
+        "La Constitución ordena equivalencia, no inferioridad.",
+        "Los nombra el Procurador conforme a la ley (art. 278-6).",
+        "No pertenecen a la Rama Ejecutiva."
+      ],
+      "concepto": "Agentes del Ministerio Público (art. 280)."
+    },
+    {
+      "id": "1.8-13", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Un alcalde pagó una obra que no se ejecutó, causando detrimento al patrimonio público. La responsabilidad fiscal la establece:",
+      "opciones": [
+        "La Procuraduría General de la Nación.",
+        "La Contraloría competente.",
+        "La Fiscalía General de la Nación.",
+        "El Concejo Municipal."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La PGN investiga la responsabilidad disciplinaria.",
+        "Correcto: art. 268 (establecer la responsabilidad fiscal); a nivel territorial, la contraloría respectiva.",
+        "La Fiscalía investiga la responsabilidad penal.",
+        "El Concejo ejerce control político sobre la administración municipal."
+      ],
+      "concepto": "Responsabilidad disciplinaria, fiscal y penal: órganos competentes."
+    },
+    {
+      "id": "1.8-14", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Para el cumplimiento de sus funciones, según el artículo 277, la Procuraduría:",
+      "opciones": [
+        "Tiene atribuciones de policía judicial y puede interponer las acciones que considere necesarias.",
+        "Puede dictar sentencias penales contra servidores públicos.",
+        "Puede ordenar capturas sin intervención judicial.",
+        "Solo puede actuar a petición de parte."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: inciso final del art. 277.",
+        "La PGN no dicta sentencias penales.",
+        "Las capturas requieren orden judicial (art. 28).",
+        "Puede actuar de oficio."
+      ],
+      "concepto": "Policía judicial y acciones de la PGN (art. 277)."
+    },
+    {
+      "id": "1.8-15", "nivel": 5, "tipo": "multiple",
+      "enunciado": "Según el artículo 278-1, el Procurador puede desvincular directamente a un funcionario público:",
+      "opciones": [
+        "Sin audiencia, cuando la falta sea evidente.",
+        "Previa audiencia y mediante decisión motivada, cuando, por ejemplo, derive evidente e indebido provecho patrimonial en el ejercicio de su cargo.",
+        "Solo con autorización previa del Consejo de Estado.",
+        "Por cualquier falta leve reiterada, mediante simple comunicación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Constitución exige previa audiencia.",
+        "Correcto: art. 278-1 (también por infringir de manera manifiesta la Constitución o la ley, obstaculizar gravemente las investigaciones u obrar con manifiesta negligencia).",
+        "La norma no exige autorización del Consejo de Estado.",
+        "Las causales son graves y taxativas, y se requiere decisión motivada."
+      ],
+      "concepto": "Desvinculación directa (art. 278-1)."
+    },
+    {
+      "id": "1.8-16", "nivel": 5, "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes es una función del Defensor del Pueblo según el artículo 282?",
+      "opciones": [
+        "Imponer sanciones disciplinarias a los servidores públicos.",
+        "Invocar el habeas corpus e interponer acciones de tutela.",
+        "Establecer la responsabilidad fiscal de los gestores públicos.",
+        "Elegir a los personeros municipales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La potestad disciplinaria corresponde a la PGN (y a otras autoridades disciplinarias).",
+        "Correcto: numeral 3 del art. 282, sin perjuicio del derecho de los interesados.",
+        "Eso corresponde a la Contraloría.",
+        "Los personeros los eligen los concejos municipales."
+      ],
+      "concepto": "Funciones del Defensor del Pueblo (art. 282)."
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "id": "1.2",
+  "titulo": "Derechos fundamentales y derecho de petición",
+  "normas": [
+    "Constitución Política: arts. 11–41, 85 y 94",
+    "Art. 23 (derecho de petición)",
+    "Ley 1755 de 2015 (Ley Estatutaria del derecho de petición)"
+  ],
+  "objetivos": [
+    "Reconocer los derechos fundamentales del Capítulo 1 del Título II (arts. 11–41) y sus contenidos más preguntados.",
+    "Identificar los derechos de aplicación inmediata (art. 85) y la cláusula de derechos innominados (art. 94).",
+    "Aplicar las garantías del debido proceso (art. 29) a actuaciones administrativas y disciplinarias.",
+    "Manejar los términos y reglas básicas del derecho de petición (art. 23 y Ley 1755 de 2015) en casos de oficina."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. ¿Qué es un derecho fundamental?",
+      "parrafos": [
+        "Un derecho fundamental es aquel que protege lo esencial de la dignidad humana y que puede reclamarse directamente ante un juez, principalmente mediante la <b>acción de tutela</b> (art. 86). La Constitución los reúne en el <b>Capítulo 1 del Título II, arts. 11 a 41</b>.",
+        "Pero no todos los fundamentales están en ese capítulo: la Corte Constitucional ha reconocido como fundamentales, por ejemplo, los derechos de los niños (art. 44) y la salud (hoy fundamental autónomo por la Ley Estatutaria 1751 de 2015). Además, el <b>art. 94</b> aclara que la lista de derechos no niega otros inherentes a la persona que no figuren expresamente (derechos innominados)."
+      ]
+    },
+    {
+      "subtitulo": "2. Los derechos más preguntados",
+      "parrafos": [
+        "<b>Vida (art. 11)</b>: es inviolable; no habrá pena de muerte. <b>Art. 12</b>: nadie será sometido a desaparición forzada, torturas ni tratos o penas crueles, inhumanos o degradantes.",
+        "<b>Igualdad (art. 13)</b>: todas las personas nacen libres e iguales ante la ley y no pueden ser discriminadas por sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. El Estado debe promover que la igualdad sea <b>real y efectiva</b>, adoptar medidas en favor de grupos discriminados o marginados (<b>acciones afirmativas</b>) y proteger especialmente a quienes estén en <b>debilidad manifiesta</b>.",
+        "<b>Intimidad y habeas data (art. 15)</b>: derecho a la intimidad, al buen nombre y a <b>conocer, actualizar y rectificar</b> la información recogida en bancos de datos. La correspondencia es inviolable y solo puede ser interceptada o registrada mediante <b>orden judicial</b>.",
+        "<b>Libre desarrollo de la personalidad (art. 16)</b>, <b>libertad de conciencia (art. 18)</b>: nadie será obligado a revelar sus convicciones; <b>libertad de cultos (art. 19)</b>; <b>libertad de expresión e información (art. 20)</b>: información veraz e imparcial, derecho de rectificación y prohibición de censura; <b>honra (art. 21)</b>."
+      ]
+    },
+    {
+      "subtitulo": "3. Libertad personal y garantías judiciales",
+      "parrafos": [
+        "<b>Art. 28</b>: nadie puede ser detenido ni su domicilio registrado sino por <b>mandamiento escrito de autoridad judicial competente</b>. La persona detenida preventivamente debe ser puesta a disposición del juez dentro de las <b>36 horas</b> siguientes. No hay prisión por deudas ni penas imprescriptibles.",
+        "<b>Debido proceso (art. 29)</b>: se aplica a <b>toda clase de actuaciones judiciales y administrativas</b> (incluido el proceso disciplinario). Comprende: legalidad (ser juzgado conforme a leyes preexistentes), juez o funcionario competente, favorabilidad, <b>presunción de inocencia</b>, defensa y asistencia de abogado, proceso público sin dilaciones injustificadas, presentar y controvertir pruebas, impugnar la sentencia condenatoria y <b>no ser juzgado dos veces por el mismo hecho</b> (non bis in idem). Es <b>nula de pleno derecho</b> la prueba obtenida con violación del debido proceso.",
+        "<b>Habeas corpus (art. 30)</b>: quien crea estar privado ilegalmente de la libertad puede invocarlo ante <b>cualquier autoridad judicial</b>, en todo tiempo, por sí o por otra persona; debe resolverse en <b>36 horas</b>.",
+        "<b>Art. 31</b>: toda sentencia puede apelarse o consultarse, salvo excepciones legales; el superior no puede agravar la pena cuando el condenado es <b>apelante único</b> (no reformatio in pejus). <b>Art. 33</b>: nadie está obligado a declarar contra sí mismo ni contra su cónyuge, compañero permanente o parientes dentro del <b>cuarto grado de consanguinidad, segundo de afinidad o primero civil</b>. <b>Art. 34</b>: se prohíben las penas de destierro, prisión perpetua y confiscación (la reforma que intentó introducir la prisión perpetua revisable fue declarada inexequible por la Corte Constitucional, Sentencia C-294 de 2021)."
+      ]
+    },
+    {
+      "subtitulo": "4. Aplicación inmediata (art. 85)",
+      "parrafos": [
+        "Son de aplicación inmediata —no necesitan una ley que los desarrolle para exigirse— los derechos de los arts. <b>11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29, 30, 31, 33, 34, 37 y 40</b>.",
+        "Truco de examen: <b>no</b> están en la lista el 22 (paz), el <b>25 (trabajo)</b>, el 32, el 35, el 36, el 38 (asociación) ni el 39 (sindicatos). Que no estén en el art. 85 no significa que no sean fundamentales; solo que no se mencionan en esa lista."
+      ]
+    },
+    {
+      "subtitulo": "5. Derecho de petición (art. 23 y Ley 1755 de 2015)",
+      "parrafos": [
+        "Toda persona tiene derecho a presentar <b>peticiones respetuosas</b> a las autoridades por motivos de interés general o particular y a obtener <b>pronta resolución</b>. Se puede presentar en forma verbal, escrita o por cualquier medio idóneo, y <b>no requiere abogado</b>. Es el derecho que más vas a aplicar como técnico en atención y gestión documental.",
+        "<b>Términos</b> (días hábiles, contados desde la recepción): regla general <b>15 días</b>; solicitud de <b>documentos e información: 10 días</b> (si no se responde, se entiende aceptada y las copias deben entregarse dentro de los 3 días siguientes); <b>consultas</b> a las autoridades sobre materias a su cargo: <b>30 días</b>; petición de <b>información o documentos de una autoridad a otra: 10 días</b>.",
+        "Si no es posible responder a tiempo, la autoridad debe <b>informarlo antes de que venza el término</b>, explicando los motivos y señalando un plazo razonable, que <b>no puede exceder el doble</b> del inicialmente previsto.",
+        "<b>Petición incompleta</b>: la autoridad requiere al peticionario dentro de los 10 días siguientes a la radicación para que la complete en el término máximo de <b>un mes</b>; si no lo hace (ni pide prórroga), se entiende que <b>desistió</b>. <b>Falta de competencia</b>: si la petición es escrita, se remite al competente dentro de los <b>5 días</b> siguientes a su recepción y se informa al peticionario; si es verbal, se le informa en el mismo acto."
+      ]
+    }
+  ],
+  "conceptos": [
+    {
+      "termino": "Derecho fundamental",
+      "definicion": "Derecho ligado a la dignidad humana, protegido directamente por tutela. Los principales están en los arts. 11 a 41."
+    },
+    {
+      "termino": "Aplicación inmediata (art. 85)",
+      "definicion": "Característica de ciertos derechos que pueden exigirse sin necesidad de una ley que los desarrolle."
+    },
+    {
+      "termino": "Derechos innominados (art. 94)",
+      "definicion": "La enumeración constitucional no excluye otros derechos inherentes a la persona humana."
+    },
+    {
+      "termino": "Acción afirmativa",
+      "definicion": "Medida que da un trato favorable a grupos discriminados o marginados para lograr igualdad real (art. 13, inc. 2)."
+    },
+    {
+      "termino": "Habeas data",
+      "definicion": "Derecho a conocer, actualizar y rectificar la información personal en bancos de datos y archivos (art. 15)."
+    },
+    {
+      "termino": "Debido proceso",
+      "definicion": "Conjunto de garantías (legalidad, competencia, defensa, presunción de inocencia, contradicción, non bis in idem) aplicable a actuaciones judiciales y administrativas (art. 29)."
+    },
+    {
+      "termino": "Non bis in idem",
+      "definicion": "Prohibición de juzgar dos veces a una persona por el mismo hecho."
+    },
+    {
+      "termino": "No reformatio in pejus",
+      "definicion": "Cuando el condenado es apelante único, el superior no puede empeorar su situación (art. 31)."
+    },
+    {
+      "termino": "Habeas corpus",
+      "definicion": "Derecho y acción para proteger la libertad personal ante privaciones ilegales; se resuelve en 36 horas (art. 30)."
+    },
+    {
+      "termino": "Desistimiento tácito (petición)",
+      "definicion": "Si el peticionario no completa la petición en el mes concedido, se entiende que desistió (Ley 1755 de 2015)."
+    }
+  ],
+  "confusiones": [
+    {
+      "concepto": "Habeas <b>corpus</b> (art. 30)",
+      "seConfundeCon": "Habeas <b>data</b> (art. 15)",
+      "diferencia": "Corpus protege la libertad física (36 horas). Data protege la información personal (conocer, actualizar, rectificar)."
+    },
+    {
+      "concepto": "36 horas del <b>art. 28</b>",
+      "seConfundeCon": "36 horas del <b>art. 30</b>",
+      "diferencia": "Art. 28: plazo para poner al detenido a disposición del juez. Art. 30: plazo para resolver el habeas corpus."
+    },
+    {
+      "concepto": "Petición general: <b>15 días</b>",
+      "seConfundeCon": "Documentos: <b>10 días</b> / Consultas: <b>30 días</b>",
+      "diferencia": "15 es la regla general; 10 para información y copias (también cuando las pide otra autoridad); 30 para consultas sobre materias a cargo de la entidad."
+    },
+    {
+      "concepto": "Derecho fundamental",
+      "seConfundeCon": "Derecho de aplicación inmediata",
+      "diferencia": "El trabajo (art. 25) es fundamental pero no está en la lista del art. 85."
+    },
+    {
+      "concepto": "Art. 33: <b>4.º consanguinidad</b>",
+      "seConfundeCon": "<b>2.º de afinidad, 1.º civil</b>",
+      "diferencia": "Consanguinidad = parientes de sangre hasta 4.º grado (primos); afinidad = parientes del cónyuge hasta 2.º (cuñados); civil = adopción, 1.º grado."
+    },
+    {
+      "concepto": "Acción afirmativa",
+      "seConfundeCon": "Discriminación",
+      "diferencia": "La acción afirmativa da trato favorable justificado para lograr igualdad real; la discriminación es un trato diferente injustificado."
+    }
+  ],
+  "procuraduria": [
+    "El art. 277-2 encarga al Procurador <b>proteger los derechos humanos y asegurar su efectividad</b>, con el auxilio del Defensor del Pueblo.",
+    "El debido proceso del art. 29 rige el <b>proceso disciplinario</b> que adelanta la Procuraduría (Ley 1952 de 2019, reformada por la Ley 2094 de 2021): presunción de inocencia, defensa, contradicción y non bis in idem.",
+    "La PGN recibe a diario derechos de petición, quejas y solicitudes ciudadanas: el técnico debe conocer los términos de la Ley 1755 de 2015 para radicar, clasificar, remitir por competencia y controlar vencimientos.",
+    "Desatender o responder tarde un derecho de petición puede constituir falta disciplinaria."
+  ],
+  "altaProbabilidad": [
+    "Art. 11: vida inviolable, no hay pena de muerte.",
+    "Art. 29: debido proceso en actuaciones <b>judiciales y administrativas</b>; prueba ilícita nula de pleno derecho.",
+    "Art. 30: habeas corpus ante cualquier autoridad judicial, resuelto en 36 horas.",
+    "Art. 85: lista de aplicación inmediata (el trabajo, art. 25, no está).",
+    "Términos de petición: 15 (general), 10 (documentos), 30 (consultas), 5 días para remitir por competencia.",
+    "Art. 33: cuarto grado de consanguinidad, segundo de afinidad, primero civil."
+  ],
+  "ejemplos": [
+    {
+      "titulo": "Petición dirigida a la entidad equivocada",
+      "caso": "Un ciudadano radica por escrito en la Procuraduría una solicitud de copia de su historia laboral, que corresponde a otra entidad.",
+      "analisis": "La PGN debe remitirla a la entidad competente dentro de los 5 días siguientes a su recepción y comunicarlo al peticionario."
+    },
+    {
+      "titulo": "Petición incompleta",
+      "caso": "Un usuario solicita información “del proceso de mi hermano” sin indicar nombre ni número de radicado.",
+      "analisis": "Dentro de los 10 días siguientes se le requiere para que complete la información en máximo un mes; si no responde, se entiende desistida."
+    },
+    {
+      "titulo": "Acción afirmativa en atención al usuario",
+      "caso": "Una persona en silla de ruedas llega a la ventanilla y se le atiende con prioridad.",
+      "analisis": "No es discriminación contra los demás: es protección especial a quien está en circunstancia de debilidad manifiesta (art. 13)."
+    }
+  ],
+  "repaso": [
+    "Fundamentales: arts. 11–41 (+ art. 44 niños, salud por Ley 1751/2015, art. 94 innominados).",
+    "Art. 29: debido proceso judicial y administrativo.",
+    "Habeas corpus: 36 h, cualquier juez. Detenido: 36 h ante el juez.",
+    "Petición: 15 / 10 / 30 días; remitir por competencia en 5 días; ampliación máximo al doble.",
+    "Art. 85: el trabajo no está en la lista de aplicación inmediata."
+  ],
+  "preguntas": [
+    {
+      "id": "1.2-01",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "Según el artículo 11 de la Constitución:",
+      "opciones": [
+        "El derecho a la vida es inviolable y no habrá pena de muerte.",
+        "El derecho a la vida es inviolable, salvo en delitos de lesa humanidad.",
+        "La pena de muerte solo puede imponerse por la Corte Suprema de Justicia.",
+        "La pena de muerte está prohibida, excepto en estados de guerra exterior."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: es el texto del art. 11, sin excepciones.",
+        "El art. 11 no contempla excepciones a la prohibición de la pena de muerte.",
+        "Ninguna autoridad puede imponer pena de muerte en Colombia.",
+        "Ni siquiera en estados de excepción: la prohibición es absoluta."
+      ],
+      "concepto": "Art. 11: vida inviolable, sin pena de muerte."
+    },
+    {
+      "id": "1.2-02",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "El habeas corpus (art. 30) se invoca ante:",
+      "opciones": [
+        "La Procuraduría General de la Nación, que debe resolverlo en 10 días.",
+        "Cualquier autoridad judicial, y debe resolverse en el término de 36 horas.",
+        "La Defensoría del Pueblo, que debe resolverlo en 72 horas.",
+        "El juez de ejecución de penas, y debe resolverse en 48 horas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Procuraduría no resuelve el habeas corpus; es una acción judicial.",
+        "Correcto: art. 30, en todo tiempo, por sí o por interpuesta persona.",
+        "El Defensor puede invocarlo (art. 282), pero no lo resuelve; el plazo es de 36 horas.",
+        "Puede invocarse ante cualquier autoridad judicial, no solo uno específico, y el plazo es 36 horas."
+      ],
+      "concepto": "Habeas corpus: cualquier autoridad judicial, 36 horas."
+    },
+    {
+      "id": "1.2-03",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "El debido proceso del artículo 29 se aplica a:",
+      "opciones": [
+        "Únicamente a los procesos penales.",
+        "Únicamente a los procesos ante jueces de la República.",
+        "Toda clase de actuaciones judiciales y administrativas.",
+        "Las actuaciones administrativas solo cuando la ley lo disponga expresamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El art. 29 no se limita a lo penal; aunque algunas garantías son propias del derecho penal.",
+        "También rige en actuaciones administrativas, como los procesos disciplinarios.",
+        "Correcto: es la primera frase del art. 29.",
+        "No depende de que la ley lo diga; la Constitución lo impone directamente."
+      ],
+      "concepto": "Art. 29: debido proceso judicial y administrativo."
+    },
+    {
+      "id": "1.2-04",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes derechos NO aparece en la lista de derechos de aplicación inmediata del artículo 85?",
+      "opciones": [
+        "La libertad de conciencia (art. 18).",
+        "El derecho de petición (art. 23).",
+        "El debido proceso (art. 29).",
+        "El derecho al trabajo (art. 25)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El art. 18 sí está en la lista del art. 85.",
+        "El art. 23 sí está en la lista del art. 85.",
+        "El art. 29 sí está en la lista del art. 85.",
+        "Correcto: el art. 25 (trabajo) no figura en la lista del art. 85, aunque está en el capítulo de derechos fundamentales."
+      ],
+      "concepto": "Art. 85: lista de aplicación inmediata (no incluye el art. 25)."
+    },
+    {
+      "id": "1.2-05",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "Un ciudadano radica una petición de interés particular sin ninguna característica especial. Salvo norma especial, la entidad debe resolverla dentro de:",
+      "opciones": [
+        "Los 10 días hábiles siguientes a su recepción.",
+        "Los 15 días hábiles siguientes a su recepción.",
+        "Los 30 días calendario siguientes a su recepción.",
+        "Los 15 días calendario siguientes a su recepción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "10 días es el término para documentos e información, no la regla general.",
+        "Correcto: regla general de la Ley 1755 de 2015.",
+        "30 días es para consultas, y los términos se cuentan en días hábiles.",
+        "El término es de 15 días, pero hábiles, no calendario."
+      ],
+      "concepto": "Término general del derecho de petición: 15 días hábiles."
+    },
+    {
+      "id": "1.2-06",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "Una usuaria solicita a la entidad copia de un documento público que reposa en sus archivos. El término para resolver es de:",
+      "opciones": [
+        "5 días hábiles.",
+        "10 días hábiles.",
+        "15 días hábiles.",
+        "30 días hábiles."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "5 días es el término para remitir una petición por falta de competencia.",
+        "Correcto: peticiones de documentos e información, 10 días; si no se responde, se entiende aceptada y las copias se entregan dentro de los 3 días siguientes.",
+        "15 días es la regla general, pero la ley fija un término menor para documentos.",
+        "30 días corresponde a las consultas."
+      ],
+      "concepto": "Petición de documentos e información: 10 días hábiles."
+    },
+    {
+      "id": "1.2-07",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "Llega por escrito a su dependencia una petición cuyo asunto es competencia de otra entidad. Usted debe:",
+      "opciones": [
+        "Devolverla al peticionario indicándole a qué entidad acudir.",
+        "Archivarla, porque la entidad no es competente para resolverla.",
+        "Remitirla a la entidad competente dentro de los 5 días siguientes a su recepción e informar al peticionario.",
+        "Responderla de fondo dentro de los 15 días para no vulnerar el derecho de petición."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La ley no ordena devolverla, sino remitirla al competente.",
+        "Archivarla vulnera el derecho de petición.",
+        "Correcto: regla de la Ley 1755 de 2015 para peticiones escritas sin competencia.",
+        "No puede resolver de fondo un asunto ajeno a su competencia."
+      ],
+      "concepto": "Falta de competencia: remisión en 5 días e información al peticionario."
+    },
+    {
+      "id": "1.2-08",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Un alcalde solicita a la Procuraduría información y copias de documentos que reposan en sus archivos. ¿Qué término tiene la Procuraduría para resolver?",
+      "opciones": [
+        "30 días, porque la solicitud proviene de una autoridad territorial.",
+        "15 días, por ser la regla general del derecho de petición.",
+        "10 días, por tratarse de una petición de información entre autoridades.",
+        "5 días, porque las autoridades tienen trámite preferente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No existe un término de 30 días para peticiones entre autoridades; 30 días es el de las consultas.",
+        "La regla general cede ante la norma especial para peticiones de información o documentos entre autoridades.",
+        "Correcto: cuando una autoridad pide información o documentos a otra, debe resolverse en máximo 10 días (Ley 1755 de 2015).",
+        "No hay un término de 5 días para responder; ese plazo es para remitir por competencia."
+      ],
+      "concepto": "Petición de información o documentos entre autoridades: 10 días."
+    },
+    {
+      "id": "1.2-09",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "La entidad establece turnos preferenciales para adultos mayores, mujeres embarazadas y personas con discapacidad. Desde el artículo 13, esta medida es:",
+      "opciones": [
+        "Discriminatoria, porque da un trato diferente a personas que tienen igual derecho a ser atendidas.",
+        "Una acción afirmativa válida para lograr igualdad real frente a personas en debilidad manifiesta.",
+        "Válida solo si una ley de la República la ordena expresamente.",
+        "Una facultad discrecional que no tiene relación con el derecho a la igualdad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No todo trato diferente es discriminación: si es razonable y busca igualdad real, es legítimo.",
+        "Correcto: el art. 13 ordena proteger especialmente a quienes están en debilidad manifiesta y adoptar medidas a favor de grupos marginados.",
+        "El mandato surge directamente del art. 13; además, la ley ya lo desarrolla.",
+        "Tiene relación directa con la igualdad material del art. 13."
+      ],
+      "concepto": "Igualdad material y acciones afirmativas (art. 13)."
+    },
+    {
+      "id": "1.2-10",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Según el artículo 33, nadie está obligado a declarar contra sí mismo ni contra su cónyuge, compañero permanente o parientes dentro del:",
+      "opciones": [
+        "Segundo grado de consanguinidad, primero de afinidad y primero civil.",
+        "Tercer grado de consanguinidad, segundo de afinidad y segundo civil.",
+        "Cuarto grado de consanguinidad, segundo de afinidad y primero civil.",
+        "Cuarto grado de consanguinidad, cuarto de afinidad y primero civil."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los grados son mayores: cuarto de consanguinidad y segundo de afinidad.",
+        "No coincide con el texto del art. 33.",
+        "Correcto: texto del art. 33.",
+        "La afinidad llega solo hasta el segundo grado."
+      ],
+      "concepto": "Art. 33: 4.º consanguinidad, 2.º afinidad, 1.º civil."
+    },
+    {
+      "id": "1.2-11",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Un jefe de área pide a un técnico abrir y revisar la correspondencia personal que un funcionario recibió en la oficina, para verificar si contiene información del servicio. De acuerdo con el artículo 15:",
+      "opciones": [
+        "Es válido, porque la correspondencia llegó a una sede pública.",
+        "Es válido si lo autoriza por escrito el jefe de la dependencia.",
+        "La correspondencia es inviolable y solo puede interceptarse o registrarse mediante orden judicial.",
+        "Es válido si se hace en presencia de dos testigos y se levanta un acta."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El lugar de recepción no elimina la inviolabilidad de la correspondencia privada.",
+        "Un jefe administrativo no puede autorizar la interceptación; se requiere orden judicial.",
+        "Correcto: art. 15, inciso tercero.",
+        "Los testigos y el acta no reemplazan la orden judicial."
+      ],
+      "concepto": "Inviolabilidad de la correspondencia (art. 15)."
+    },
+    {
+      "id": "1.2-12",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "En un proceso disciplinario se pretende usar como prueba una grabación obtenida sin respetar las garantías del debido proceso. Según el artículo 29, esa prueba:",
+      "opciones": [
+        "Es válida si resulta determinante para demostrar la falta.",
+        "Es nula de pleno derecho.",
+        "Puede valorarse si la acompaña el testimonio de quien la obtuvo.",
+        "Es anulable solo si el investigado lo solicita en la primera oportunidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La importancia de la prueba no subsana la violación del debido proceso.",
+        "Correcto: último inciso del art. 29.",
+        "Un testimonio no convalida una prueba obtenida ilegalmente.",
+        "La nulidad opera de pleno derecho, no depende de que se solicite."
+      ],
+      "concepto": "Prueba obtenida con violación del debido proceso: nula de pleno derecho."
+    },
+    {
+      "id": "1.2-13",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "Una persona condenada apela la sentencia y nadie más la impugna. El superior, al revisar, encuentra que la pena impuesta fue baja. Según el artículo 31:",
+      "opciones": [
+        "Puede aumentarla, porque debe corregir los errores del juez de primera instancia.",
+        "No puede agravar la pena, porque el condenado es apelante único.",
+        "Puede aumentarla solo si la Procuraduría lo solicita en la segunda instancia.",
+        "Debe anular el proceso y ordenar uno nuevo con una pena mayor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La prohibición de reforma en perjuicio impide empeorar la situación del apelante único.",
+        "Correcto: no reformatio in pejus (art. 31).",
+        "Si el Ministerio Público no apeló, no puede pedir agravarla en segunda instancia.",
+        "Anular para agravar sería una forma indirecta de desconocer la garantía."
+      ],
+      "concepto": "No reformatio in pejus (art. 31)."
+    },
+    {
+      "id": "1.2-14",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "Una persona es capturada para detención preventiva. Según el artículo 28, debe ser puesta a disposición del juez competente:",
+      "opciones": [
+        "Dentro de las 24 horas siguientes.",
+        "Dentro de las 36 horas siguientes.",
+        "Dentro de las 48 horas siguientes.",
+        "Dentro de los 3 días hábiles siguientes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No es el plazo constitucional del art. 28.",
+        "Correcto: 36 horas (art. 28).",
+        "No es el plazo constitucional del art. 28.",
+        "El plazo se cuenta en horas, no en días hábiles."
+      ],
+      "concepto": "Art. 28: detenido a disposición del juez en 36 horas."
+    },
+    {
+      "id": "1.2-15",
+      "nivel": 5,
+      "tipo": "multiple",
+      "enunciado": "Un usuario sostiene que un derecho no es exigible porque no aparece expresamente en la Constitución ni en los tratados. ¿Qué norma permite refutar ese argumento?",
+      "opciones": [
+        "El artículo 85, que enumera los derechos de aplicación inmediata.",
+        "El artículo 94, según el cual la enunciación de derechos no niega otros inherentes a la persona humana.",
+        "El artículo 4, que establece que la Constitución es norma de normas.",
+        "El artículo 86, que regula la acción de tutela."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El art. 85 enumera derechos expresos de aplicación inmediata; no se refiere a derechos no enunciados.",
+        "Correcto: cláusula de derechos innominados (art. 94).",
+        "El art. 4 trata la supremacía constitucional, no los derechos no enunciados.",
+        "La tutela es el mecanismo de protección, no la fuente de derechos no escritos."
+      ],
+      "concepto": "Art. 94: derechos innominados."
+    },
+    {
+      "id": "1.2-16",
+      "nivel": 5,
+      "tipo": "multiple",
+      "enunciado": "Una dependencia advierte que no podrá responder de fondo una petición general dentro de los 15 días. Según la Ley 1755 de 2015, lo procedente es:",
+      "opciones": [
+        "Responder cuando sea posible, sin necesidad de avisar, porque el término es indicativo.",
+        "Informar al peticionario antes del vencimiento, con los motivos y un plazo razonable no mayor al doble del inicial.",
+        "Informar al peticionario después del vencimiento, otorgándose un plazo adicional de hasta 60 días.",
+        "Archivar la petición y pedir al usuario que la radique nuevamente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El término es obligatorio; la omisión vulnera el derecho y puede generar responsabilidad disciplinaria.",
+        "Correcto: aviso antes del vencimiento, motivos y plazo razonable que no exceda el doble (aquí, hasta 30 días).",
+        "El aviso debe darse antes del vencimiento y el plazo no puede superar el doble del término inicial.",
+        "Archivar o exigir nueva radicación desconoce el derecho de petición."
+      ],
+      "concepto": "Ampliación del término de respuesta: aviso previo y máximo el doble."
+    }
+  ]
+}

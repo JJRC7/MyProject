@@ -1,0 +1,389 @@
+{
+  "id": "1.6",
+  "titulo": "Estructura del Estado: ramas del poder, órganos autónomos y organización territorial",
+  "normas": ["Constitución Política: arts. 113–121", "Arts. 114, 132, 150–152 (Rama Legislativa)", "Arts. 115, 188–197 (Rama Ejecutiva)", "Art. 116 (Rama Judicial)", "Arts. 212–215 (estados de excepción)", "Arts. 286–287, 311 (organización territorial)"],
+  "objetivos": [
+    "Describir la estructura del Estado del art. 113: tres ramas, órganos autónomos e independientes y colaboración armónica.",
+    "Identificar las funciones y la composición de las ramas legislativa, ejecutiva y judicial.",
+    "Ubicar los órganos de control y la organización electoral.",
+    "Reconocer las clases de leyes, los estados de excepción y las entidades territoriales."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. El mapa general (art. 113)",
+      "parrafos": [
+        "El poder público se divide en <b>tres ramas</b>: <b>legislativa</b> (hace las leyes), <b>ejecutiva</b> (gobierna y administra) y <b>judicial</b> (administra justicia). Además existen <b>órganos autónomos e independientes</b> para cumplir las demás funciones del Estado: los <b>órganos de control</b> (Ministerio Público y Contraloría, art. 117), la <b>organización electoral</b> (Consejo Nacional Electoral y Registraduría Nacional del Estado Civil, art. 120), el Banco de la República, la Comisión Nacional del Servicio Civil, entre otros.",
+        "Los órganos tienen funciones separadas, pero <b>colaboran armónicamente</b> para realizar los fines del Estado. Y una regla de oro para todo servidor (art. 121): <b>ninguna autoridad puede ejercer funciones distintas de las que le atribuyen la Constitución y la ley</b>."
+      ]
+    },
+    {
+      "subtitulo": "2. Rama Legislativa",
+      "parrafos": [
+        "El <b>Congreso</b> está integrado por el <b>Senado</b> y la <b>Cámara de Representantes</b> (Congreso bicameral) y sus miembros se eligen para <b>4 años</b>. Según el art. 114, le corresponde <b>reformar la Constitución, hacer las leyes y ejercer control político</b> sobre el Gobierno y la administración (por ejemplo, citaciones y moción de censura a ministros).",
+        "Clases de leyes más preguntadas: <b>ordinarias</b>; <b>orgánicas</b> (reglamento del Congreso, presupuesto, ordenamiento territorial); <b>estatutarias</b> (art. 152: derechos fundamentales y sus mecanismos de protección, administración de justicia, partidos, <b>mecanismos de participación ciudadana</b>, estados de excepción, igualdad electoral), que exigen <b>mayoría absoluta</b>, aprobación en <b>una sola legislatura</b> y <b>revisión previa</b> de la Corte Constitucional; y <b>leyes marco</b> (art. 150-19). Ejemplos de leyes estatutarias: Ley 1755 de 2015 (petición), Ley 1757 de 2015 (participación), Ley 1581 de 2012 (datos personales)."
+      ]
+    },
+    {
+      "subtitulo": "3. Rama Ejecutiva",
+      "parrafos": [
+        "<b>Art. 115</b>: el Presidente es <b>Jefe de Estado, Jefe del Gobierno y suprema autoridad administrativa</b>. El <b>Gobierno nacional</b> lo forman el Presidente, los ministros del despacho y los directores de departamentos administrativos; en cada negocio particular, el Presidente y el ministro o director correspondiente constituyen el Gobierno. El Presidente se elige para 4 años y no hay reelección presidencial.",
+        "También forman parte de la Rama Ejecutiva las <b>gobernaciones y alcaldías</b>, las <b>superintendencias</b>, los <b>establecimientos públicos</b> y las <b>empresas industriales y comerciales del Estado</b>."
+      ]
+    },
+    {
+      "subtitulo": "4. Rama Judicial",
+      "parrafos": [
+        "<b>Art. 116</b>: administran justicia la <b>Corte Constitucional</b>, la <b>Corte Suprema de Justicia</b>, el <b>Consejo de Estado</b>, la <b>Comisión Nacional de Disciplina Judicial</b>, la <b>Fiscalía General de la Nación</b>, los tribunales y los jueces; también la justicia penal militar. El Congreso ejerce algunas funciones judiciales. Excepcionalmente la ley puede atribuir funciones jurisdiccionales a autoridades administrativas en materias precisas, y los <b>particulares</b> pueden administrar justicia <b>transitoriamente</b> como <b>jurados, conciliadores o árbitros</b>.",
+        "Ojo: la <b>Procuraduría no hace parte de la Rama Judicial</b>; es un órgano de control autónomo, aunque sus agentes intervienen en procesos judiciales."
+      ]
+    },
+    {
+      "subtitulo": "5. Estados de excepción (arts. 212–215)",
+      "parrafos": [
+        "<b>Guerra exterior</b> (art. 212). <b>Conmoción interior</b> (art. 213): hasta <b>90 días</b>, prorrogable hasta por dos periodos iguales; la segunda prórroga requiere <b>concepto previo y favorable del Senado</b>. <b>Emergencia económica, social y ecológica</b> (art. 215): periodos de hasta <b>30 días</b> que, sumados, no pueden exceder <b>90 días en el año calendario</b>.",
+        "Reglas comunes (art. 214): los decretos legislativos llevan la firma del Presidente y de <b>todos los ministros</b>; <b>no pueden suspenderse los derechos humanos ni las libertades fundamentales</b>; no se interrumpe el funcionamiento de las ramas ni de los órganos del Estado; y la Corte Constitucional revisa los decretos <b>automáticamente</b>."
+      ]
+    },
+    {
+      "subtitulo": "6. Organización territorial",
+      "parrafos": [
+        "<b>Art. 286</b>: son entidades territoriales los <b>departamentos, los distritos, los municipios y los territorios indígenas</b>; la ley puede darles ese carácter a regiones y provincias. <b>Art. 287</b>: gozan de autonomía para gestionar sus intereses dentro de los límites de la Constitución y la ley: gobernarse por autoridades propias, ejercer sus competencias, administrar recursos y establecer tributos, y participar en las rentas nacionales. <b>Art. 311</b>: el <b>municipio</b> es la entidad fundamental de la división político-administrativa."
+      ]
+    }
+  ],
+  "conceptos": [
+    {"termino": "Colaboración armónica", "definicion": "Los órganos del Estado tienen funciones separadas pero cooperan para cumplir los fines estatales (art. 113)."},
+    {"termino": "Órganos autónomos e independientes", "definicion": "Órganos que no pertenecen a ninguna rama: control (Procuraduría, Contraloría), organización electoral, Banco de la República, CNSC, entre otros."},
+    {"termino": "Control político", "definicion": "Función del Congreso sobre el Gobierno y la administración (citaciones, debates, moción de censura)."},
+    {"termino": "Ley estatutaria", "definicion": "Ley sobre materias del art. 152; requiere mayoría absoluta, una sola legislatura y revisión previa de la Corte."},
+    {"termino": "Gobierno nacional", "definicion": "Presidente, ministros del despacho y directores de departamentos administrativos (art. 115)."},
+    {"termino": "Decreto legislativo", "definicion": "Decreto con fuerza de ley que expide el Gobierno en estados de excepción; tiene control automático de la Corte."},
+    {"termino": "Principio de legalidad de las competencias (art. 121)", "definicion": "Ninguna autoridad puede ejercer funciones distintas de las que le asignan la Constitución y la ley."},
+    {"termino": "Entidad territorial", "definicion": "Departamentos, distritos, municipios y territorios indígenas, con autonomía dentro de la Constitución y la ley."}
+  ],
+  "confusiones": [
+    {"concepto": "<b>Procuraduría</b> (órgano de control)", "seConfundeCon": "<b>Fiscalía</b> (Rama Judicial)", "diferencia": "La Fiscalía investiga delitos y hace parte de la Rama Judicial; la Procuraduría ejerce control disciplinario y no pertenece a ninguna rama."},
+    {"concepto": "Comisión Nacional de <b>Disciplina Judicial</b>", "seConfundeCon": "Procuraduría (disciplina de servidores)", "diferencia": "La Comisión disciplina a funcionarios y empleados de la Rama Judicial y a abogados; la PGN, en general, a los demás servidores públicos."},
+    {"concepto": "Jefe de <b>Estado</b>", "seConfundeCon": "Jefe de <b>Gobierno</b> / suprema autoridad administrativa", "diferencia": "En Colombia el Presidente reúne las tres calidades (art. 115)."},
+    {"concepto": "Conmoción interior: <b>90 días</b> + 2 prórrogas", "seConfundeCon": "Emergencia económica: <b>30 días</b>, máx. 90 al año", "diferencia": "En conmoción la segunda prórroga requiere concepto favorable del Senado; en emergencia se suman periodos de 30 días hasta 90 en el año."},
+    {"concepto": "Ley <b>estatutaria</b>", "seConfundeCon": "Ley <b>orgánica</b>", "diferencia": "Estatutaria: derechos fundamentales, participación, justicia, partidos, estados de excepción. Orgánica: reglamento del Congreso, presupuesto, ordenamiento territorial."},
+    {"concepto": "Consejo Nacional <b>Electoral</b>", "seConfundeCon": "Consejo de <b>Estado</b>", "diferencia": "El CNE integra la organización electoral; el Consejo de Estado es tribunal supremo de lo contencioso administrativo (Rama Judicial)."}
+  ],
+  "procuraduria": [
+    "La Procuraduría es un <b>órgano de control</b> autónomo e independiente (arts. 113 y 117): no depende del Presidente ni del Congreso.",
+    "El Procurador es elegido por el <b>Senado</b> de terna integrada por candidatos del Presidente, la Corte Suprema y el Consejo de Estado: participan las tres ramas (colaboración armónica).",
+    "Los agentes del Ministerio Público intervienen ante la Rama Judicial, pero no administran justicia como jueces.",
+    "En estados de excepción, la PGN mantiene sus funciones de vigilancia (art. 214: no se interrumpe el funcionamiento de los órganos del Estado).",
+    "El art. 121 es la base del deber de todo técnico de actuar solo dentro de las funciones de su cargo."
+  ],
+  "altaProbabilidad": [
+    "Art. 113: tres ramas + órganos autónomos + colaboración armónica.",
+    "Art. 114: Congreso reforma la Constitución, hace las leyes y ejerce control político.",
+    "Art. 115: Presidente = Jefe de Estado, de Gobierno y suprema autoridad administrativa.",
+    "Art. 116: quiénes administran justicia; particulares como jurados, conciliadores o árbitros.",
+    "Art. 117: órganos de control = Ministerio Público y Contraloría. Art. 120: CNE y Registraduría.",
+    "Art. 286: entidades territoriales. Art. 214: no se suspenden derechos humanos."
+  ],
+  "ejemplos": [
+    {"titulo": "Colaboración armónica", "caso": "El Senado elige al Procurador de una terna en la que participan el Presidente, la Corte Suprema y el Consejo de Estado.", "analisis": "Las ramas tienen funciones separadas, pero colaboran para integrar un órgano autónomo."},
+    {"titulo": "Art. 121 en la oficina", "caso": "Un técnico de una procuraduría regional decide por su cuenta archivar una queja porque le parece infundada.", "analisis": "Decidir el archivo no está entre sus funciones: actuaría por fuera de su competencia (art. 121) y con extralimitación (art. 6)."},
+    {"titulo": "Particulares que administran justicia", "caso": "Dos empresas pactan que un tribunal de arbitramento resuelva su conflicto contractual.", "analisis": "Los árbitros son particulares investidos <b>transitoriamente</b> de la función de administrar justicia (art. 116)."}
+  ],
+  "repaso": [
+    "Ramas: legislativa, ejecutiva, judicial + órganos autónomos (control, electoral, otros).",
+    "Órganos de control: Ministerio Público + Contraloría. Electoral: CNE + Registraduría.",
+    "Presidente: tres calidades. Gobierno: Presidente + ministros + directores de DA.",
+    "Rama Judicial: CC, CSJ, CE, Comisión Nacional de Disciplina Judicial, Fiscalía, tribunales y jueces.",
+    "Entidades territoriales: departamentos, distritos, municipios, territorios indígenas."
+  ],
+  "preguntas": [
+    {
+      "id": "1.6-01", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Según el artículo 113, son ramas del poder público:",
+      "opciones": [
+        "La legislativa, la ejecutiva y la judicial.",
+        "La legislativa, la ejecutiva y la de control.",
+        "La ejecutiva, la judicial y la electoral.",
+        "La legislativa, la judicial y la territorial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 113.",
+        "Los órganos de control son autónomos, no una rama.",
+        "La organización electoral es autónoma, no una rama.",
+        "La organización territorial no es una rama del poder público."
+      ],
+      "concepto": "Ramas del poder público (art. 113)."
+    },
+    {
+      "id": "1.6-02", "nivel": 1, "tipo": "multiple",
+      "enunciado": "De acuerdo con el artículo 115, el Presidente de la República es:",
+      "opciones": [
+        "Jefe de Estado y jefe del Congreso.",
+        "Jefe de Estado, Jefe del Gobierno y suprema autoridad administrativa.",
+        "Jefe del Gobierno y suprema autoridad judicial.",
+        "Jefe del Gobierno, pero no Jefe de Estado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El Presidente no es jefe del Congreso.",
+        "Correcto: art. 115.",
+        "El Presidente no es autoridad judicial.",
+        "En Colombia reúne ambas jefaturas."
+      ],
+      "concepto": "Calidades del Presidente (art. 115)."
+    },
+    {
+      "id": "1.6-03", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Según el artículo 117, son órganos de control:",
+      "opciones": [
+        "La Fiscalía y la Contraloría.",
+        "El Ministerio Público y la Contraloría General de la República.",
+        "La Procuraduría y la Registraduría.",
+        "La Defensoría del Pueblo y el Consejo Nacional Electoral."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Fiscalía hace parte de la Rama Judicial.",
+        "Correcto: art. 117.",
+        "La Registraduría integra la organización electoral.",
+        "La Defensoría hace parte del Ministerio Público, pero el CNE es organización electoral."
+      ],
+      "concepto": "Órganos de control (art. 117)."
+    },
+    {
+      "id": "1.6-04", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Según el artículo 114, corresponde al Congreso:",
+      "opciones": [
+        "Reformar la Constitución, hacer las leyes y ejercer control político sobre el Gobierno y la administración.",
+        "Hacer las leyes, administrar justicia y nombrar a los ministros.",
+        "Reformar la Constitución, ejercer control fiscal y elegir al Presidente.",
+        "Hacer las leyes, ejercer control disciplinario y reglamentar las leyes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 114.",
+        "Administra justicia la Rama Judicial y los ministros los nombra el Presidente.",
+        "El control fiscal es de la Contraloría y el Presidente se elige por voto popular.",
+        "El control disciplinario no es función del Congreso respecto de los servidores en general y la reglamentación es del Presidente."
+      ],
+      "concepto": "Funciones del Congreso (art. 114)."
+    },
+    {
+      "id": "1.6-05", "nivel": 2, "tipo": "multiple",
+      "enunciado": "La organización electoral está conformada, según el artículo 120, por:",
+      "opciones": [
+        "El Consejo de Estado y la Registraduría Nacional del Estado Civil.",
+        "El Consejo Nacional Electoral, la Registraduría Nacional del Estado Civil y demás organismos que establezca la ley.",
+        "El Ministerio del Interior y el Consejo Nacional Electoral.",
+        "La Procuraduría Delegada para Asuntos Electorales y la Registraduría."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El Consejo de Estado es de la Rama Judicial.",
+        "Correcto: art. 120.",
+        "El Ministerio del Interior pertenece a la Rama Ejecutiva.",
+        "La Procuraduría es órgano de control, no organización electoral."
+      ],
+      "concepto": "Organización electoral (art. 120)."
+    },
+    {
+      "id": "1.6-06", "nivel": 2, "tipo": "multiple",
+      "enunciado": "¿Cuáles son entidades territoriales según el artículo 286?",
+      "opciones": [
+        "Departamentos, distritos, municipios y territorios indígenas.",
+        "Departamentos, municipios, corregimientos y veredas.",
+        "Regiones, provincias, departamentos y localidades.",
+        "Distritos, municipios, comunas y resguardos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 286 (la ley puede dar ese carácter a regiones y provincias).",
+        "Corregimientos y veredas son divisiones internas del municipio, no entidades territoriales.",
+        "Regiones y provincias solo lo serían si la ley les da ese carácter; las localidades son divisiones de los distritos.",
+        "Comunas y resguardos no aparecen como entidades territoriales en el art. 286."
+      ],
+      "concepto": "Entidades territoriales (art. 286)."
+    },
+    {
+      "id": "1.6-07", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Un servidor de una entidad administrativa decide “resolver” un conflicto entre dos particulares sobre la propiedad de un predio, sin que ninguna norma le asigne esa función. Según el artículo 121:",
+      "opciones": [
+        "Puede hacerlo si ambas partes están de acuerdo.",
+        "Ninguna autoridad puede ejercer funciones distintas de las que le atribuyen la Constitución y la ley.",
+        "Puede hacerlo si su jefe lo autoriza verbalmente.",
+        "Puede hacerlo porque toda autoridad debe resolver los conflictos que conozca."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El acuerdo de las partes no le otorga competencia a una autoridad.",
+        "Correcto: art. 121.",
+        "Un jefe no puede atribuir competencias que la ley no asigna.",
+        "Las autoridades solo actúan dentro de sus competencias."
+      ],
+      "concepto": "Art. 121: legalidad de las competencias."
+    },
+    {
+      "id": "1.6-08", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Que el Procurador sea elegido por el Senado de una terna en la que intervienen el Presidente, la Corte Suprema y el Consejo de Estado es una expresión del principio de:",
+      "opciones": [
+        "Subordinación de la Procuraduría al Congreso.",
+        "Colaboración armónica entre los órganos del Estado.",
+        "Centralización administrativa.",
+        "Delegación de funciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Procuraduría es autónoma e independiente; no está subordinada al Congreso.",
+        "Correcto: art. 113, funciones separadas pero colaboración armónica.",
+        "La centralización se refiere a la concentración de funciones administrativas.",
+        "La delegación es la transferencia de funciones de un superior a un subalterno."
+      ],
+      "concepto": "Colaboración armónica (art. 113)."
+    },
+    {
+      "id": "1.6-09", "nivel": 3, "tipo": "multiple",
+      "enunciado": "La ley que regula los mecanismos de participación ciudadana o los derechos fundamentales debe ser:",
+      "opciones": [
+        "Una ley orgánica, aprobada por mayoría simple.",
+        "Una ley estatutaria, aprobada por mayoría absoluta en una sola legislatura y con revisión previa de la Corte Constitucional.",
+        "Un decreto ley expedido por el Presidente con facultades extraordinarias.",
+        "Una ley marco que el Gobierno desarrolla por decreto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las leyes orgánicas regulan otras materias (reglamento del Congreso, presupuesto, ordenamiento territorial).",
+        "Correcto: art. 152 y siguientes.",
+        "Las facultades extraordinarias no pueden usarse para expedir leyes estatutarias.",
+        "Las leyes marco regulan materias como crédito público o comercio exterior."
+      ],
+      "concepto": "Leyes estatutarias (art. 152)."
+    },
+    {
+      "id": "1.6-10", "nivel": 3, "tipo": "multiple",
+      "enunciado": "El Gobierno nacional está formado, según el artículo 115, por:",
+      "opciones": [
+        "El Presidente y el Vicepresidente.",
+        "El Presidente, los ministros del despacho y los directores de departamentos administrativos.",
+        "El Presidente, los gobernadores y los alcaldes.",
+        "El Presidente, el Congreso y las altas cortes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La definición incluye a ministros y directores de departamentos administrativos.",
+        "Correcto: art. 115.",
+        "Gobernaciones y alcaldías hacen parte de la Rama Ejecutiva, pero no del Gobierno nacional.",
+        "Congreso y altas cortes son otras ramas."
+      ],
+      "concepto": "Gobierno nacional (art. 115)."
+    },
+    {
+      "id": "1.6-11", "nivel": 3, "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes entidades NO hace parte de la Rama Judicial?",
+      "opciones": [
+        "La Fiscalía General de la Nación.",
+        "La Comisión Nacional de Disciplina Judicial.",
+        "La Procuraduría General de la Nación.",
+        "El Consejo de Estado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La Fiscalía sí hace parte de la Rama Judicial (art. 116).",
+        "La Comisión Nacional de Disciplina Judicial sí está en el art. 116.",
+        "Correcto: la Procuraduría es un órgano de control autónomo.",
+        "El Consejo de Estado sí hace parte de la Rama Judicial."
+      ],
+      "concepto": "Composición de la Rama Judicial (art. 116)."
+    },
+    {
+      "id": "1.6-12", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Según el artículo 116, los particulares pueden ser investidos de la función de administrar justicia:",
+      "opciones": [
+        "De forma permanente, como jueces de paz y notarios.",
+        "Transitoriamente, en condición de jurados, conciliadores o árbitros.",
+        "Solo en asuntos penales, como fiscales ad hoc.",
+        "Nunca, porque es una función exclusiva del Estado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La regla constitucional habla de investidura transitoria; los notarios no administran justicia.",
+        "Correcto: art. 116, inciso final.",
+        "La Constitución no prevé fiscales particulares.",
+        "La Constitución sí lo permite transitoriamente."
+      ],
+      "concepto": "Particulares que administran justicia (art. 116)."
+    },
+    {
+      "id": "1.6-13", "nivel": 4, "tipo": "multiple",
+      "enunciado": "El estado de conmoción interior puede declararse por un término de hasta 90 días, prorrogable por dos periodos iguales. ¿Qué se exige para la segunda prórroga?",
+      "opciones": [
+        "La firma del Procurador General de la Nación.",
+        "El concepto previo y favorable del Senado.",
+        "Una consulta popular nacional.",
+        "La aprobación previa de la Corte Constitucional."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Procuraduría no autoriza prórrogas de estados de excepción.",
+        "Correcto: art. 213.",
+        "No se exige consulta popular.",
+        "La Corte hace control automático de los decretos, no aprobación previa de la prórroga."
+      ],
+      "concepto": "Conmoción interior (art. 213)."
+    },
+    {
+      "id": "1.6-14", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Durante un estado de excepción, según el artículo 214:",
+      "opciones": [
+        "Pueden suspenderse temporalmente los derechos fundamentales.",
+        "No pueden suspenderse los derechos humanos ni las libertades fundamentales.",
+        "Se suspende el funcionamiento del Congreso.",
+        "Los decretos legislativos no tienen control judicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Constitución lo prohíbe expresamente.",
+        "Correcto: art. 214, numeral 2.",
+        "No se interrumpe el funcionamiento de las ramas ni de los órganos del Estado.",
+        "La Corte Constitucional los revisa automáticamente."
+      ],
+      "concepto": "Límites de los estados de excepción (art. 214)."
+    },
+    {
+      "id": "1.6-15", "nivel": 5, "tipo": "multiple",
+      "enunciado": "Según el artículo 115, forman parte de la Rama Ejecutiva:",
+      "opciones": [
+        "Las gobernaciones, las alcaldías, las superintendencias, los establecimientos públicos y las empresas industriales y comerciales del Estado.",
+        "Las asambleas, los concejos, las gobernaciones y las alcaldías.",
+        "Las superintendencias, las contralorías territoriales y las personerías.",
+        "Las empresas industriales y comerciales del Estado, el Banco de la República y la Registraduría."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: último inciso del art. 115.",
+        "Asambleas y concejos son corporaciones administrativas de elección popular, no gobernaciones ni alcaldías.",
+        "Contralorías y personerías son órganos de control.",
+        "El Banco de la República y la Registraduría son órganos autónomos."
+      ],
+      "concepto": "Composición de la Rama Ejecutiva (art. 115)."
+    },
+    {
+      "id": "1.6-16", "nivel": 5, "tipo": "multiple",
+      "enunciado": "Respecto del estado de emergencia económica, social y ecológica (art. 215), es correcto afirmar que:",
+      "opciones": [
+        "Puede declararse por periodos de hasta 90 días, prorrogables indefinidamente.",
+        "Puede declararse por periodos de hasta 30 días que, sumados, no excedan 90 días en el año calendario.",
+        "Solo puede declararse con autorización previa del Congreso.",
+        "Permite al Gobierno desmejorar los derechos sociales de los trabajadores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No corresponde a la regla del art. 215.",
+        "Correcto: art. 215.",
+        "Lo declara el Presidente con la firma de todos los ministros; el Congreso ejerce control posterior.",
+        "El art. 215 prohíbe expresamente desmejorar los derechos sociales de los trabajadores."
+      ],
+      "concepto": "Emergencia económica, social y ecológica (art. 215)."
+    }
+  ]
+}

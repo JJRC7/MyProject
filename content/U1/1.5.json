@@ -1,0 +1,361 @@
+{
+  "id": "1.5",
+  "titulo": "Participación democrática y mecanismos de participación ciudadana",
+  "normas": ["Constitución Política: arts. 40, 98–99, 103–104, 155, 258–259, 270, 378", "Ley 134 de 1994", "Ley Estatutaria 1757 de 2015", "Ley 850 de 2003 (veedurías ciudadanas)"],
+  "objetivos": [
+    "Enumerar los siete mecanismos de participación del art. 103 y definir cada uno.",
+    "Diferenciar plebiscito, referendo y consulta popular, y saber quién convoca cada uno.",
+    "Identificar los derechos políticos del art. 40 y los requisitos de la ciudadanía.",
+    "Relacionar el control social (veedurías, rendición de cuentas) con la vigilancia de la gestión pública."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. Democracia representativa y participativa",
+      "parrafos": [
+        "En la democracia <b>representativa</b> el pueblo elige a quienes deciden por él (Congreso, Presidente, gobernadores, alcaldes, concejos). La Constitución de 1991 agregó la democracia <b>participativa</b>: el pueblo también decide directamente y controla a sus gobernantes. Por eso el art. 1 dice que Colombia es una república “democrática, participativa y pluralista” y el art. 3 permite ejercer la soberanía “en forma directa”."
+      ]
+    },
+    {
+      "subtitulo": "2. Los siete mecanismos del artículo 103",
+      "parrafos": [
+        "Truco para memorizarlos: <b>“Vo-Ple-Re-Con-Ca-I-Re”</b> → <b>Vo</b>to, <b>Ple</b>biscito, <b>Re</b>ferendo, <b>Con</b>sulta popular, <b>Ca</b>bildo abierto, <b>I</b>niciativa legislativa y <b>Re</b>vocatoria del mandato. [COMPLEMENTARIO] La tutela, la acción popular o el derecho de petición <b>no</b> son mecanismos de participación del art. 103 (son mecanismos de protección o derechos).",
+        "<b>Plebiscito</b>: pronunciamiento del pueblo, <b>convocado por el Presidente</b>, mediante el cual <b>apoya o rechaza una decisión del Ejecutivo</b>.",
+        "<b>Referendo</b>: convocatoria al pueblo para que <b>apruebe o rechace un proyecto de norma jurídica</b> o <b>derogue o no una norma vigente</b> (referendo aprobatorio o derogatorio). También es una de las vías de reforma constitucional (arts. 374 y 378).",
+        "<b>Consulta popular</b>: una <b>pregunta de carácter general</b> sobre un asunto de trascendencia nacional, departamental, municipal o local, que somete el <b>Presidente, el gobernador o el alcalde</b>, según el caso; la decisión del pueblo es <b>obligatoria</b>. La consulta nacional requiere la firma de todos los ministros y el <b>concepto previo favorable del Senado</b> (art. 104).",
+        "<b>Cabildo abierto</b>: <b>reunión pública de los concejos o de las juntas administradoras locales</b> en la que los habitantes participan directamente para discutir asuntos de interés de la comunidad.",
+        "<b>Iniciativa popular legislativa y normativa</b>: derecho de un grupo de ciudadanos a presentar proyectos de acto legislativo y de ley ante el Congreso, de ordenanza ante las asambleas, de acuerdo ante los concejos o de resolución ante las JAL. Ante el Congreso se requiere un número de ciudadanos igual o superior al <b>5 % del censo electoral</b>, o el 30 % de los concejales o diputados del país (art. 155).",
+        "<b>Revocatoria del mandato</b>: derecho de los ciudadanos a dar por terminado el mandato conferido a un <b>gobernador o alcalde</b>. Se basa en el <b>voto programático</b> (art. 259): quien vota por ellos les impone como mandato el programa que inscribieron."
+      ]
+    },
+    {
+      "subtitulo": "3. Derechos políticos y ciudadanía",
+      "parrafos": [
+        "<b>Art. 40</b>: todo ciudadano tiene derecho a participar en la conformación, ejercicio y control del poder político: elegir y ser elegido; tomar parte en elecciones, plebiscitos, referendos y consultas; constituir partidos; revocar el mandato; tener iniciativa en las corporaciones públicas; <b>interponer acciones públicas en defensa de la Constitución y de la ley</b>; y <b>acceder al desempeño de funciones y cargos públicos</b> (base constitucional de tu concurso). Las autoridades garantizarán la participación adecuada y efectiva de la mujer en los niveles decisorios.",
+        "<b>Ciudadanía</b> (arts. 98 y 99): se ejerce desde los <b>18 años</b>; ser ciudadano en ejercicio es condición previa para votar, ser elegido y desempeñar cargos públicos que lleven anexa autoridad o jurisdicción. La ciudadanía se pierde de hecho al renunciar a la nacionalidad y su ejercicio puede suspenderse por decisión judicial.",
+        "<b>Art. 258</b>: el voto es un <b>derecho y un deber ciudadano</b> y es secreto."
+      ]
+    },
+    {
+      "subtitulo": "4. Control social a la gestión pública",
+      "parrafos": [
+        "<b>Art. 270</b>: la ley organizará las formas y sistemas de participación ciudadana que permitan <b>vigilar la gestión pública</b> y sus resultados. Así nacen las <b>veedurías ciudadanas</b> (Ley 850 de 2003): mecanismos democráticos de representación que permiten a los ciudadanos u organizaciones ejercer vigilancia sobre la gestión pública.",
+        "La <b>Ley Estatutaria 1757 de 2015</b> regula la participación democrática, el <b>control social</b> y la <b>rendición de cuentas</b>: proceso mediante el cual los servidores y entidades del Estado <b>informan, dialogan y responden</b> a la ciudadanía sobre su gestión."
+      ]
+    }
+  ],
+  "conceptos": [
+    {"termino": "Plebiscito", "definicion": "El pueblo, convocado por el Presidente, apoya o rechaza una decisión del Ejecutivo."},
+    {"termino": "Referendo", "definicion": "El pueblo aprueba o rechaza un proyecto de norma jurídica, o deroga o no una norma vigente."},
+    {"termino": "Consulta popular", "definicion": "Pregunta general sobre un asunto de trascendencia, sometida por el Presidente, gobernador o alcalde; la decisión es obligatoria."},
+    {"termino": "Cabildo abierto", "definicion": "Reunión pública de concejos o JAL en la que los habitantes discuten asuntos de interés comunitario."},
+    {"termino": "Iniciativa popular", "definicion": "Derecho de un grupo de ciudadanos de presentar proyectos normativos ante corporaciones públicas."},
+    {"termino": "Revocatoria del mandato", "definicion": "Los ciudadanos dan por terminado el mandato de un gobernador o alcalde."},
+    {"termino": "Voto programático", "definicion": "Quien elige gobernador o alcalde le impone por mandato el programa inscrito (art. 259)."},
+    {"termino": "Veeduría ciudadana", "definicion": "Mecanismo de control social para vigilar la gestión pública (Ley 850 de 2003)."},
+    {"termino": "Rendición de cuentas", "definicion": "Proceso en el que las entidades informan, dialogan y responden a la ciudadanía por su gestión (Ley 1757 de 2015)."}
+  ],
+  "confusiones": [
+    {"concepto": "<b>Plebiscito</b>", "seConfundeCon": "<b>Referendo</b>", "diferencia": "Plebiscito: apoyar o rechazar una <b>decisión del Ejecutivo</b>. Referendo: aprobar o rechazar una <b>norma</b> (o derogarla)."},
+    {"concepto": "<b>Plebiscito</b>", "seConfundeCon": "<b>Consulta popular</b>", "diferencia": "El plebiscito lo convoca solo el Presidente sobre decisiones del Ejecutivo; la consulta es una pregunta general y la pueden convocar Presidente, gobernador o alcalde."},
+    {"concepto": "<b>Cabildo abierto</b>", "seConfundeCon": "<b>Consulta popular</b>", "diferencia": "El cabildo es una reunión deliberativa en el concejo o JAL; no hay votación del pueblo con efecto obligatorio."},
+    {"concepto": "Revocatoria del mandato", "seConfundeCon": "Revocatoria de congresistas o del Presidente", "diferencia": "Solo procede contra <b>gobernadores y alcaldes</b>."},
+    {"concepto": "Mecanismos de <b>participación</b> (art. 103)", "seConfundeCon": "Mecanismos de <b>protección</b> (arts. 86–88)", "diferencia": "Tutela, cumplimiento y acciones populares protegen derechos; no están en la lista del art. 103."},
+    {"concepto": "Iniciativa popular: <b>5 % del censo</b>", "seConfundeCon": "<b>30 % de concejales o diputados</b>", "diferencia": "Son dos vías alternativas del art. 155 para presentar proyectos de ley."}
+  ],
+  "procuraduria": [
+    "La función <b>preventiva</b> de la Procuraduría promueve la participación ciudadana y vigila que las entidades cumplan sus deberes de rendición de cuentas y transparencia.",
+    "La PGN defiende los intereses de la sociedad (art. 277-3) y vigila la conducta de los servidores, incluidos los de elección popular, en relación con los procesos electorales y de participación.",
+    "Los personeros municipales, que integran el Ministerio Público, apoyan a las veedurías ciudadanas y orientan a la comunidad sobre estos mecanismos.",
+    "Como técnico, una de tus funciones es <b>orientar a los usuarios internos y externos</b> (función 7 del cargo): debes saber explicar a un ciudadano qué mecanismo le sirve y a quién acudir."
+  ],
+  "altaProbabilidad": [
+    "Lista del art. 103 (siete mecanismos): voto, plebiscito, referendo, consulta popular, cabildo abierto, iniciativa legislativa, revocatoria del mandato.",
+    "Plebiscito = decisión del Ejecutivo (Presidente). Referendo = norma.",
+    "Consulta popular nacional: firma de todos los ministros y concepto favorable del Senado; decisión obligatoria.",
+    "Revocatoria: solo gobernadores y alcaldes (voto programático).",
+    "Cabildo abierto: concejos y JAL.",
+    "Art. 40: acceder a cargos públicos e interponer acciones públicas. Art. 270: control ciudadano a la gestión pública."
+  ],
+  "ejemplos": [
+    {"titulo": "¿Plebiscito o referendo?", "caso": "El Presidente convoca al pueblo para que respalde o no un acuerdo que firmó el Gobierno.", "analisis": "Es un <b>plebiscito</b>: se apoya o rechaza una decisión del Ejecutivo, no se aprueba una norma."},
+    {"titulo": "Cabildo abierto", "caso": "Los vecinos de una localidad piden discutir en sesión pública de la JAL el cierre de un parque.", "analisis": "Es un <b>cabildo abierto</b>: reunión pública de la JAL con participación directa de los habitantes."},
+    {"titulo": "Orientación al usuario", "caso": "Un ciudadano quiere “quitarle el cargo” al alcalde porque no cumple su programa.", "analisis": "El mecanismo es la <b>revocatoria del mandato</b>, que procede contra alcaldes y gobernadores con base en el voto programático; no es una queja disciplinaria."}
+  ],
+  "repaso": [
+    "Art. 103: Vo-Ple-Re-Con-Ca-I-Re.",
+    "Plebiscito → Ejecutivo · Referendo → norma · Consulta → pregunta general obligatoria.",
+    "Revocatoria → gobernadores y alcaldes.",
+    "Ciudadanía: 18 años. Voto: derecho y deber.",
+    "Control social: veedurías (Ley 850/2003) y rendición de cuentas (Ley 1757/2015)."
+  ],
+  "preguntas": [
+    {
+      "id": "1.5-01", "nivel": 1, "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes figuras NO es un mecanismo de participación del pueblo según el artículo 103?",
+      "opciones": ["El cabildo abierto.", "La revocatoria del mandato.", "La acción de tutela.", "La consulta popular."],
+      "correcta": 2,
+      "explicaciones": [
+        "El cabildo abierto sí está en el art. 103.",
+        "La revocatoria del mandato sí está en el art. 103.",
+        "Correcto: la tutela es un mecanismo de protección de derechos fundamentales (art. 86), no de participación.",
+        "La consulta popular sí está en el art. 103."
+      ],
+      "concepto": "Lista de mecanismos de participación del art. 103."
+    },
+    {
+      "id": "1.5-02", "nivel": 1, "tipo": "multiple",
+      "enunciado": "La revocatoria del mandato procede contra:",
+      "opciones": [
+        "Congresistas y diputados.",
+        "Gobernadores y alcaldes.",
+        "El Presidente y los ministros.",
+        "Concejales y ediles."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No procede contra miembros de corporaciones públicas.",
+        "Correcto: gobernadores y alcaldes, con base en el voto programático.",
+        "No procede contra el Presidente ni los ministros.",
+        "No procede contra concejales ni ediles."
+      ],
+      "concepto": "Revocatoria del mandato: gobernadores y alcaldes."
+    },
+    {
+      "id": "1.5-03", "nivel": 1, "tipo": "multiple",
+      "enunciado": "El plebiscito es el pronunciamiento del pueblo, convocado por:",
+      "opciones": [
+        "El Congreso, para aprobar o rechazar un proyecto de ley.",
+        "El Presidente de la República, para apoyar o rechazar una decisión del Ejecutivo.",
+        "Los alcaldes, para resolver asuntos de trascendencia municipal.",
+        "La Registraduría, para elegir a los miembros de las corporaciones públicas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Aprobar o rechazar un proyecto de norma es propio del referendo.",
+        "Correcto: definición de la Ley 134 de 1994.",
+        "Eso corresponde a la consulta popular municipal.",
+        "La Registraduría organiza elecciones; no convoca plebiscitos."
+      ],
+      "concepto": "Plebiscito: Presidente, decisión del Ejecutivo."
+    },
+    {
+      "id": "1.5-04", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Un grupo de ciudadanos promueve que el pueblo decida si se deroga o no una norma vigente. Se trata de:",
+      "opciones": ["Un plebiscito.", "Una consulta popular.", "Un referendo.", "Un cabildo abierto."],
+      "correcta": 2,
+      "explicaciones": [
+        "El plebiscito versa sobre decisiones del Ejecutivo, no sobre la derogatoria de normas.",
+        "La consulta es una pregunta general sobre un asunto de trascendencia, no la derogatoria de una norma.",
+        "Correcto: referendo derogatorio.",
+        "El cabildo es una reunión deliberativa; no deroga normas."
+      ],
+      "concepto": "Referendo aprobatorio y derogatorio."
+    },
+    {
+      "id": "1.5-05", "nivel": 2, "tipo": "multiple",
+      "enunciado": "La reunión pública de un concejo municipal en la que los habitantes participan directamente para discutir asuntos de interés de la comunidad se denomina:",
+      "opciones": ["Consulta popular.", "Cabildo abierto.", "Audiencia de rendición de cuentas.", "Iniciativa normativa."],
+      "correcta": 1,
+      "explicaciones": [
+        "La consulta es una votación sobre una pregunta general.",
+        "Correcto: cabildo abierto (concejos y JAL).",
+        "La rendición de cuentas la hacen las entidades sobre su gestión; no es el mecanismo del art. 103 descrito.",
+        "La iniciativa es la presentación de proyectos normativos."
+      ],
+      "concepto": "Cabildo abierto."
+    },
+    {
+      "id": "1.5-06", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Para convocar una consulta popular nacional, el Presidente necesita, según el artículo 104:",
+      "opciones": [
+        "La firma de todos los ministros y el concepto previo favorable del Senado.",
+        "La aprobación de la Corte Constitucional y del Consejo de Estado.",
+        "La firma del Procurador General y del Registrador Nacional.",
+        "Una ley aprobada por mayoría absoluta en ambas cámaras."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 104.",
+        "No se exige aprobación de las altas cortes para convocarla.",
+        "No intervienen el Procurador ni el Registrador en la convocatoria.",
+        "Se exige concepto del Senado, no una ley de ambas cámaras."
+      ],
+      "concepto": "Consulta popular nacional (art. 104)."
+    },
+    {
+      "id": "1.5-07", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Según el artículo 155, para presentar un proyecto de ley por iniciativa popular se requiere un número de ciudadanos igual o superior al:",
+      "opciones": [
+        "1 % del censo electoral.",
+        "5 % del censo electoral.",
+        "10 % del censo electoral.",
+        "30 % del censo electoral."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No corresponde al porcentaje constitucional.",
+        "Correcto: 5 % del censo electoral (alternativamente, 30 % de concejales o diputados del país).",
+        "No corresponde al porcentaje constitucional.",
+        "El 30 % se refiere a concejales o diputados, no al censo electoral."
+      ],
+      "concepto": "Iniciativa popular legislativa (art. 155)."
+    },
+    {
+      "id": "1.5-08", "nivel": 3, "tipo": "multiple",
+      "enunciado": "¿En qué figura constitucional se fundamenta la revocatoria del mandato?",
+      "opciones": [
+        "En la responsabilidad disciplinaria de los servidores públicos.",
+        "En el voto programático, por el cual el elector impone al elegido el programa inscrito.",
+        "En el control político que ejerce el Congreso.",
+        "En el control fiscal que ejerce la Contraloría."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La responsabilidad disciplinaria la investiga la Procuraduría; es distinta de la revocatoria.",
+        "Correcto: art. 259.",
+        "El control político del Congreso recae sobre el Gobierno nacional (moción de censura), no sobre alcaldes.",
+        "El control fiscal vigila el manejo de recursos públicos."
+      ],
+      "concepto": "Voto programático (art. 259)."
+    },
+    {
+      "id": "1.5-09", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Un grupo de ciudadanos se organiza para vigilar la ejecución de un contrato de obra pública en su barrio. Está ejerciendo:",
+      "opciones": [
+        "Control fiscal, propio de la Contraloría.",
+        "Control social por medio de una veeduría ciudadana.",
+        "Control disciplinario, propio de la Procuraduría.",
+        "Control político, propio de los concejos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los ciudadanos no ejercen control fiscal; pueden informar a la Contraloría.",
+        "Correcto: art. 270 y Ley 850 de 2003.",
+        "Los ciudadanos pueden presentar quejas, pero el control disciplinario lo ejercen las autoridades competentes.",
+        "El control político lo ejercen las corporaciones públicas."
+      ],
+      "concepto": "Veedurías ciudadanas y control social."
+    },
+    {
+      "id": "1.5-10", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Según los artículos 98 y 99, la calidad de ciudadano en ejercicio:",
+      "opciones": [
+        "Se adquiere a los 16 años y permite votar en elecciones locales.",
+        "Se ejerce desde los 18 años y es condición previa para elegir, ser elegido y desempeñar cargos con autoridad o jurisdicción.",
+        "Se adquiere con la expedición del pasaporte.",
+        "Solo se exige para desempeñar cargos de elección popular."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La ciudadanía se ejerce desde los 18 años.",
+        "Correcto: arts. 98 y 99.",
+        "No depende del pasaporte.",
+        "También se exige para votar y para cargos con autoridad o jurisdicción."
+      ],
+      "concepto": "Ciudadanía (arts. 98–99)."
+    },
+    {
+      "id": "1.5-11", "nivel": 3, "tipo": "multiple",
+      "enunciado": "De acuerdo con el artículo 258, el voto es:",
+      "opciones": [
+        "Un derecho y un deber ciudadano.",
+        "Un derecho exclusivamente, sin carácter de deber.",
+        "Una obligación legal sancionable con multa.",
+        "Un privilegio de quienes están inscritos en partidos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: art. 258.",
+        "La Constitución lo define también como deber.",
+        "No se sanciona con multa a quien no vota.",
+        "Todos los ciudadanos pueden votar, sin necesidad de afiliación."
+      ],
+      "concepto": "El voto: derecho y deber (art. 258)."
+    },
+    {
+      "id": "1.5-12", "nivel": 4, "tipo": "multiple",
+      "enunciado": "El alcalde de un municipio quiere que la población decida, con efecto obligatorio, si está de acuerdo con que se adelante un proyecto minero en su territorio. El mecanismo adecuado es:",
+      "opciones": ["Plebiscito.", "Referendo.", "Consulta popular.", "Cabildo abierto."],
+      "correcta": 2,
+      "explicaciones": [
+        "El plebiscito solo lo convoca el Presidente.",
+        "No se trata de aprobar ni derogar una norma jurídica.",
+        "Correcto: pregunta de carácter general sobre un asunto de trascendencia municipal, sometida por el alcalde.",
+        "El cabildo es deliberativo y no tiene efecto obligatorio."
+      ],
+      "concepto": "Consulta popular municipal."
+    },
+    {
+      "id": "1.5-13", "nivel": 4, "tipo": "multiple",
+      "enunciado": "La rendición de cuentas regulada en la Ley 1757 de 2015 se entiende como:",
+      "opciones": [
+        "La presentación anual de estados financieros ante la Contaduría.",
+        "El proceso mediante el cual servidores y entidades informan, dialogan y responden a la ciudadanía sobre su gestión.",
+        "La obligación de los ciudadanos de justificar el uso de subsidios.",
+        "La sanción que impone el Congreso a los ministros mediante moción de censura."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Eso es reporte contable, no rendición de cuentas a la ciudadanía.",
+        "Correcto: definición de la Ley 1757 de 2015.",
+        "La rendición de cuentas es un deber de las entidades, no de los ciudadanos.",
+        "La moción de censura es control político del Congreso."
+      ],
+      "concepto": "Rendición de cuentas (Ley 1757 de 2015)."
+    },
+    {
+      "id": "1.5-14", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Un usuario pregunta si el resultado de una consulta popular válidamente realizada obliga a la autoridad. La respuesta correcta es:",
+      "opciones": [
+        "No, porque la consulta solo tiene valor de recomendación.",
+        "Sí, la decisión del pueblo es obligatoria.",
+        "Solo si el Congreso la ratifica mediante ley.",
+        "Solo si la Corte Constitucional la declara exequible."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La consulta no es una simple recomendación.",
+        "Correcto: art. 104 y Ley 134 de 1994: la decisión del pueblo es obligatoria.",
+        "No se requiere ratificación del Congreso.",
+        "La obligatoriedad no depende de un fallo posterior de la Corte."
+      ],
+      "concepto": "Obligatoriedad de la consulta popular."
+    },
+    {
+      "id": "1.5-15", "nivel": 5, "tipo": "multiple",
+      "enunciado": "Según el artículo 378, un referendo constitucional se entiende aprobado cuando:",
+      "opciones": [
+        "Lo vota afirmativamente la mayoría simple de los sufragantes, sin importar la participación.",
+        "Obtiene el voto afirmativo de más de la mitad de los sufragantes y el número de estos excede la cuarta parte del censo electoral.",
+        "Obtiene el voto afirmativo de las dos terceras partes del censo electoral.",
+        "Es aprobado por la Corte Constitucional después de la votación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Constitución exige además un umbral de participación.",
+        "Correcto: art. 378.",
+        "No corresponde al umbral constitucional.",
+        "La Corte controla, pero la aprobación la da el pueblo."
+      ],
+      "concepto": "Referendo constitucional (art. 378)."
+    },
+    {
+      "id": "1.5-16", "nivel": 5, "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes derechos hace parte del artículo 40 de la Constitución?",
+      "opciones": [
+        "Recibir un subsidio por ejercer el voto.",
+        "Interponer acciones públicas en defensa de la Constitución y de la ley.",
+        "Ser nombrado en un cargo público sin concurso cuando se tiene experiencia.",
+        "Exigir la reelección indefinida de autoridades locales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No existe ese derecho.",
+        "Correcto: numeral 6 del art. 40.",
+        "El art. 40 consagra el derecho a acceder a cargos públicos, pero los de carrera se proveen por concurso de méritos (art. 125).",
+        "No existe ese derecho."
+      ],
+      "concepto": "Derechos políticos del art. 40."
+    }
+  ]
+}

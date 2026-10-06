@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "version": "Fase 1 · U1 Constitución",
+    "nota": "Datos del empleo tomados del formato oficial de la Convocatoria 252-2026 (Resolución 212 de 2026, versión 3). Las lecciones de U1 se construyeron sobre el texto de la Constitución y la normativa vigente; ajústalas a los subtemas y fechas del «Plan de preparación PGN 252-2026» cuando esté disponible. Lo marcado [COMPLEMENTARIO] no proviene de fuentes oficiales.",
+    "convocatoria": {
+      "fuente": "Formato TH-F-211 «Convocatoria», versión 3 (23/02/2026) — Resolución 212 de 2026",
+      "numero": "252-2026",
+      "fijacion": "24 de marzo de 2026",
+      "inscripciones": "Del 7 al 18 de septiembre de 2026 (12 días calendario), desde las 8:00 del primer día hasta las 16:00 del último, en www.meritoconstruyendoexcelencia.com.co (art. 11 de la Resolución 076 de 2026).",
+      "divulgacion": "Las comunicaciones y notificaciones se hacen en www.procuraduria.gov.co y www.meritoconstruyendoexcelencia.com.co.",
+      "empleo": {
+        "denominacion": "Técnico Administrativo",
+        "codigoGrado": "4TM-13",
+        "nivel": "Técnico",
+        "asignacion": "$6.334.864 (vigencia 2025)",
+        "cargos": 5,
+        "ubicaciones": [
+          "División de Gestión Humana – Bogotá (2)",
+          "Procuraduría Provincial de Instrucción – Ibagué (1)",
+          "Procuraduría Regional de Instrucción – Atlántico (1)",
+          "Procuraduría Delegada con Funciones Mixtas 9: para el seguimiento a los recursos del Sistema General de Regalías – Bogotá (1)"
+        ],
+        "procesos": "Talento Humano – Preventivo – Disciplinario"
+      },
+      "requisitos": {
+        "estudio": "Aprobación de dos (2) años de educación superior en áreas relacionadas con las funciones del cargo y/o los procesos de la dependencia donde se ubique el empleo.",
+        "experiencia": "Seis (6) meses de experiencia relacionada.",
+        "equivalencias": "Se aplican las equivalencias del artículo 20 del Decreto Ley 263 de 2000."
+      },
+      "proposito": "Apoyar la gestión administrativa y aplicar conocimientos técnicos para el cumplimiento de objetivos y la prestación del servicio de la dependencia de acuerdo con los procedimientos establecidos.",
+      "funciones": [
+        "Mantener actualizados los registros de carácter técnico y administrativo y presentar los informes correspondientes, con el fin de facilitar la toma de decisiones.",
+        "Recolectar la información técnica requerida para el desarrollo de las actividades y la elaboración de informes, planes y proyectos de acuerdo con los lineamientos establecidos.",
+        "Apoyar técnica y administrativamente en el campo de su especialidad a las dependencias que lo soliciten, de conformidad con los procedimientos establecidos.",
+        "Efectuar las diligencias, trámites y actividades que le sean asignadas para la atención del servicio a cargo de la dependencia según los lineamientos establecidos.",
+        "Prestar apoyo técnico y tecnológico a las diferentes dependencias de la Procuraduría General de la Nación y demás órganos que conforman el Ministerio Público.",
+        "Registrar la información correspondiente, en el sistema de información adoptado por la entidad de acuerdo con los procedimientos establecidos.",
+        "Orientar a los usuarios internos y externos en el suministro de información, documentos o elementos que sean solicitados de conformidad con los trámites, las autorizaciones y los procedimientos establecidos.",
+        "Generar reportes y productos de información según los requerimientos.",
+        "Elaborar los informes sobre las actividades desarrolladas en función de los objetivos de la dependencia, siguiendo los lineamientos y procedimientos establecidos para tal fin.",
+        "Elaborar e interpretar cuadros, informes, estadísticas y pruebas técnicas; así como, presentar resultados orientados a la ejecución de los diversos planes, programas y proyectos relacionados con el área de desempeño.",
+        "Desempeñar las demás funciones establecidas por la ley, los estatutos o reglamentaciones internas o las que le sean asignadas, delegadas o encargadas por instancia competente para ello que estén acordes con el nivel, tipo, grado y propósito del cargo."
+      ],
+      "conocimientosEspecificos": ["Constitución Política.", "Atención al usuario.", "Bases de datos.", "Administración de inventarios.", "Conocimientos técnicos del área disciplinar."],
+      "conocimientosComunes": ["Gestión pública y funcionamiento del Estado.", "Estructura, organización y funciones de la Procuraduría General de la Nación.", "Herramientas ofimáticas.", "Elaboración de documentos de oficina.", "Sistemas de gestión.", "Gestión documental."],
+      "competencias": [
+        {"nombre": "Responsabilidad con la organización", "nivel": "B", "tipo": "Transversal"},
+        {"nombre": "Organización del trabajo", "nivel": "B", "tipo": "Transversal"},
+        {"nombre": "Gestión de la información", "nivel": "B", "tipo": "Por perfil del cargo"},
+        {"nombre": "Cumplimiento de parámetros de trabajo", "nivel": "C", "tipo": "Por perfil del cargo"},
+        {"nombre": "Objetividad", "nivel": "B", "tipo": "Por perfil del cargo"}
+      ],
+      "notaCompetencias": "Se debe consultar el Diccionario de Competencias Comportamentales, disponible en la página web de la entidad.",
+      "pruebas": [
+        {"tipo": "Conocimientos", "caracter": "Eliminatoria", "aprobatoria": "65 puntos sobre 100", "peso": "60 %"},
+        {"tipo": "Competencias comportamentales", "caracter": "Clasificatoria", "aprobatoria": "No aplica", "peso": "20 %"},
+        {"tipo": "Análisis de antecedentes", "caracter": "Clasificatoria", "aprobatoria": "No aplica", "peso": "20 %"}
+      ],
+      "listaElegibles": "Solo los concursantes que obtengan un puntaje final total igual o superior a 70 % integrarán la lista de elegibles (art. 216 del Decreto Ley 262 de 2000).",
+      "reclamaciones": "Contra la lista de admitidos y no admitidos: reclamación motivada dentro de los 2 días hábiles siguientes a su publicación, ante el jefe de la Oficina de Selección y Carrera (art. 202 del Decreto Ley 262 de 2000). Contra su decisión procede apelación, a más tardar el día hábil siguiente a la fecha en que termine la publicación, que resuelve la Comisión de Carrera. La reclamación extemporánea se rechaza.",
+      "planta": "Los cargos hacen parte de la planta globalizada: pueden ser distribuidos y reubicados en las diferentes especialidades, sedes y dependencias según las necesidades del servicio (num. 34 del art. 7 del Decreto Ley 262 de 2000). Las vacantes de San Andrés exigen tarjeta OCCRE."
+    }
+  },
+  "unidades": [
+    {"id": "U1", "numero": 1, "titulo": "Constitución", "ejeConvocatoria": "Conocimiento esencial específico: Constitución Política", "descripcion": "Constitución Política de 1991: principios, derechos, mecanismos de protección y participación, estructura del Estado, función pública y organismos de control.", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U2", "numero": 2, "titulo": "Procuraduría", "ejeConvocatoria": "Conocimiento esencial común: Estructura, organización y funciones de la Procuraduría General de la Nación", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U3", "numero": 3, "titulo": "Gestión pública", "ejeConvocatoria": "Conocimiento esencial común: Gestión pública y funcionamiento del Estado", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U4", "numero": 4, "titulo": "Atención al usuario", "ejeConvocatoria": "Conocimiento esencial específico: Atención al usuario", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U5", "numero": 5, "titulo": "Gestión documental", "ejeConvocatoria": "Conocimiento esencial común: Gestión documental", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U6", "numero": 6, "titulo": "Bases de datos y ofimática", "ejeConvocatoria": "Específico: Bases de datos · Común: Herramientas ofimáticas", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U7", "numero": 7, "titulo": "Documentos de oficina, inventarios y sistemas de gestión", "ejeConvocatoria": "Específico: Administración de inventarios · Comunes: Elaboración de documentos de oficina; Sistemas de gestión", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U8", "numero": 8, "titulo": "Área disciplinar", "ejeConvocatoria": "Conocimiento esencial específico: Conocimientos técnicos del área disciplinar", "descripcion": "", "fechaLimite": null, "paralela": false, "lecciones": []},
+    {"id": "U9", "numero": 9, "titulo": "Competencias comportamentales", "ejeConvocatoria": "Prueba de competencias comportamentales (clasificatoria, 20 %)", "descripcion": "", "fechaLimite": null, "paralela": true, "lecciones": []}
+  ]
+}

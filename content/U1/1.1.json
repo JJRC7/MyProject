@@ -1,0 +1,404 @@
+{
+  "id": "1.1",
+  "titulo": "La Constitución de 1991: estructura, principios fundamentales y supremacía",
+  "normas": ["Constitución Política: Preámbulo y arts. 1–10", "Art. 4 (supremacía)", "Art. 93 (bloque de constitucionalidad)", "Arts. 374–380 (reforma)"],
+  "objetivos": [
+    "Explicar qué es la Constitución, por qué es la “norma de normas” y cómo se organiza (Preámbulo, 13 títulos, 380 artículos permanentes y disposiciones transitorias).",
+    "Identificar los elementos de la fórmula del artículo 1: Estado social de derecho, república unitaria, descentralizada, con autonomía territorial, democrática, participativa y pluralista.",
+    "Distinguir los fines esenciales del Estado (art. 2), la soberanía popular (art. 3) y la responsabilidad de particulares y servidores públicos (art. 6).",
+    "Aplicar la supremacía constitucional y la excepción de inconstitucionalidad a casos de oficina.",
+    "Reconocer el bloque de constitucionalidad y los mecanismos de reforma constitucional."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. ¿Qué es una Constitución?",
+      "parrafos": [
+        "Una Constitución es la norma jurídica más importante de un país. Hace tres cosas: <b>organiza el poder</b> (quién manda, cómo se eligen las autoridades y qué puede hacer cada una), <b>reconoce derechos</b> a las personas y <b>fija los valores y principios</b> que orientan a todo el Estado.",
+        "La Constitución Política de Colombia fue expedida en <b>1991</b> por una Asamblea Nacional Constituyente y reemplazó a la Constitución de 1886. Todas las demás normas (leyes, decretos, resoluciones, circulares) deben ajustarse a ella."
+      ]
+    },
+    {
+      "subtitulo": "2. ¿Cómo está organizada?",
+      "parrafos": [
+        "La Constitución tiene un <b>Preámbulo</b>, <b>13 títulos</b> con <b>380 artículos permanentes</b> y unas <b>disposiciones transitorias</b>. Conocer el mapa ayuda a ubicar cualquier tema:",
+        "Título I Principios fundamentales (arts. 1–10) · Título II Derechos, garantías y deberes (arts. 11–95) · Título III Habitantes y territorio · Título IV Participación democrática y partidos · Título V Organización del Estado (arts. 113–131, incluye la función pública) · Títulos VI, VII y VIII Ramas legislativa, ejecutiva y judicial · Título IX Elecciones y organización electoral · <b>Título X Organismos de control (arts. 267–284: Contraloría y Ministerio Público)</b> · Título XI Organización territorial · Título XII Régimen económico y hacienda pública · Título XIII Reforma de la Constitución (arts. 374–380).",
+        "El Preámbulo enuncia los valores (vida, convivencia, trabajo, justicia, igualdad, conocimiento, libertad y paz). La Corte Constitucional ha dicho que el Preámbulo <b>tiene fuerza vinculante</b>: no es un simple saludo, sirve para interpretar y controlar las demás normas."
+      ]
+    },
+    {
+      "subtitulo": "3. La fórmula del artículo 1",
+      "parrafos": [
+        "El artículo 1 dice que Colombia es un <b>Estado social de derecho</b>, organizado en forma de <b>república unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista</b>, fundada en el respeto de la <b>dignidad humana</b>, en el <b>trabajo</b> y la <b>solidaridad</b> de las personas que la integran y en la <b>prevalencia del interés general</b>.",
+        "<b>Estado de derecho</b> significa que todos, incluidas las autoridades, están sometidos a normas. El adjetivo <b>social</b> agrega que el Estado no solo debe abstenerse de violar derechos, sino que debe actuar para que las personas tengan condiciones materiales de vida digna (salud, educación, vivienda, trabajo).",
+        "<b>Unitaria</b> quiere decir que hay una sola Constitución, un solo Congreso que expide leyes para todo el país y un solo orden jurídico (no es un Estado federal). <b>Descentralizada y con autonomía territorial</b> significa que departamentos, distritos y municipios gestionan sus propios intereses dentro de los límites de la Constitución y la ley.",
+        "<b>Democrática, participativa y pluralista</b>: el poder viene del pueblo, los ciudadanos intervienen directamente en las decisiones (no solo votando) y se respetan la diversidad de ideas, culturas, etnias y creencias."
+      ]
+    },
+    {
+      "subtitulo": "4. Fines del Estado, soberanía y responsabilidad (arts. 2, 3 y 6)",
+      "parrafos": [
+        "Art. 2 – <b>Fines esenciales</b>: servir a la comunidad, promover la prosperidad general, garantizar la efectividad de los principios, derechos y deberes; facilitar la participación de todos en las decisiones que los afectan; defender la independencia nacional, mantener la integridad territorial y asegurar la convivencia pacífica y la vigencia de un orden justo. Las autoridades existen para <b>proteger a todas las personas residentes en Colombia</b> en su vida, honra, bienes, creencias y demás derechos.",
+        "Art. 3 – La <b>soberanía reside exclusivamente en el pueblo</b>, del cual emana el poder público; el pueblo la ejerce directamente o por medio de sus representantes. (Ojo: la Constitución de 1886 decía que residía en la Nación).",
+        "Art. 6 – Regla clave para un servidor público: <b>los particulares solo responden por infringir la Constitución y las leyes</b>; <b>los servidores públicos responden por lo mismo y además por omisión o extralimitación en el ejercicio de sus funciones</b>. Dicho de forma sencilla: el particular puede hacer todo lo que no esté prohibido; el servidor solo puede hacer lo que la norma le permite y debe hacer lo que la norma le ordena."
+      ]
+    },
+    {
+      "subtitulo": "5. Otros principios (arts. 5, 7, 8, 9 y 10)",
+      "parrafos": [
+        "Art. 5: primacía de los derechos inalienables de la persona y protección de la familia como institución básica. Art. 7: el Estado reconoce y protege la <b>diversidad étnica y cultural</b>. Art. 8: el Estado y las personas deben proteger las <b>riquezas culturales y naturales</b>. Art. 9: relaciones exteriores basadas en la soberanía nacional y la autodeterminación de los pueblos, con orientación hacia la integración latinoamericana y del Caribe.",
+        "Art. 10: el <b>castellano</b> es el idioma oficial; las <b>lenguas y dialectos de los grupos étnicos también son oficiales en sus territorios</b>, y en sus comunidades la enseñanza será bilingüe."
+      ]
+    },
+    {
+      "subtitulo": "6. Supremacía constitucional y excepción de inconstitucionalidad (art. 4)",
+      "parrafos": [
+        "“La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales.” De aquí surge la <b>excepción de inconstitucionalidad</b>: cualquier autoridad, en un caso concreto, puede dejar de aplicar una norma claramente contraria a la Constitución. Sus efectos son solo para ese caso (inter partes); la norma no desaparece del ordenamiento.",
+        "Distinto es la <b>acción pública de inconstitucionalidad</b> (art. 241): la presenta cualquier ciudadano ante la Corte Constitucional, que decide con efectos generales (erga omnes) si la ley sale o no del ordenamiento.",
+        "El mismo art. 4 establece el deber de <b>nacionales y extranjeros</b> en Colombia de acatar la Constitución y las leyes y de respetar y obedecer a las autoridades."
+      ]
+    },
+    {
+      "subtitulo": "7. Bloque de constitucionalidad y reforma",
+      "parrafos": [
+        "Art. 93: los tratados y convenios internacionales <b>ratificados por el Congreso</b> que reconocen los derechos humanos y prohíben su limitación en los estados de excepción <b>prevalecen en el orden interno</b>. A ese conjunto de normas que, sin estar escritas en el texto constitucional, tienen su mismo nivel para ciertos efectos, se le llama <b>bloque de constitucionalidad</b>.",
+        "Art. 374: la Constitución puede ser reformada <b>por el Congreso</b> (mediante acto legislativo), <b>por una Asamblea Constituyente</b> o <b>por el pueblo mediante referendo</b>. No se reforma por leyes ordinarias, decretos ni sentencias."
+      ]
+    }
+  ],
+  "conceptos": [
+    {"termino": "Norma de normas", "definicion": "Expresión del art. 4: la Constitución está en la cima del ordenamiento jurídico y prevalece sobre cualquier otra norma."},
+    {"termino": "Estado social de derecho", "definicion": "Estado sometido al derecho que, además, tiene la obligación de actuar para garantizar condiciones materiales de vida digna y la eficacia real de los derechos."},
+    {"termino": "República unitaria", "definicion": "Un solo centro de producción legislativa y un único orden constitucional para todo el territorio, compatible con descentralización administrativa y autonomía territorial."},
+    {"termino": "Soberanía popular", "definicion": "La soberanía reside exclusivamente en el pueblo (art. 3); de él emana el poder público, que se ejerce directamente o por representantes."},
+    {"termino": "Prevalencia del interés general", "definicion": "Fundamento del Estado (art. 1): ante un conflicto real, el interés de la comunidad prima sobre el interés particular, sin desconocer los derechos fundamentales."},
+    {"termino": "Excepción de inconstitucionalidad", "definicion": "Facultad-deber de toda autoridad de inaplicar, en un caso concreto, una norma incompatible con la Constitución. Efectos inter partes."},
+    {"termino": "Bloque de constitucionalidad", "definicion": "Normas y principios que, sin aparecer formalmente en el texto constitucional, se usan como parámetro de constitucionalidad por mandato de la propia Constitución (p. ej., tratados de DD. HH. ratificados, art. 93)."},
+    {"termino": "Responsabilidad de los servidores públicos (art. 6)", "definicion": "Responden por infringir la Constitución y las leyes y, además, por omisión (no hacer lo debido) o extralimitación (ir más allá de sus funciones)."},
+    {"termino": "Acto legislativo", "definicion": "Norma con la que el Congreso reforma la Constitución, siguiendo el trámite especial del art. 375."}
+  ],
+  "confusiones": [
+    {"concepto": "Soberanía en el <b>pueblo</b> (Constitución de 1991, art. 3)", "seConfundeCon": "Soberanía en la <b>Nación</b> (Constitución de 1886)", "diferencia": "La de 1991 cambió el titular: el pueblo, que la ejerce directamente o por representantes."},
+    {"concepto": "Responsabilidad del <b>particular</b>", "seConfundeCon": "Responsabilidad del <b>servidor público</b>", "diferencia": "El particular responde solo por infringir Constitución y leyes. El servidor, además, por omisión o extralimitación de funciones."},
+    {"concepto": "<b>Excepción</b> de inconstitucionalidad", "seConfundeCon": "<b>Acción</b> pública de inconstitucionalidad", "diferencia": "La excepción la aplica cualquier autoridad en un caso concreto (inter partes). La acción la presenta un ciudadano ante la Corte Constitucional y su fallo tiene efectos generales (erga omnes)."},
+    {"concepto": "República <b>unitaria</b> descentralizada", "seConfundeCon": "Estado <b>federal</b>", "diferencia": "En Colombia hay un solo Congreso y una sola Constitución; los entes territoriales tienen autonomía administrativa, no poder constituyente ni legislativo propio."},
+    {"concepto": "Idioma oficial: <b>castellano</b>", "seConfundeCon": "Lenguas de los grupos étnicos", "diferencia": "Las lenguas étnicas también son oficiales, pero <b>solo en sus territorios</b> (art. 10)."},
+    {"concepto": "Reforma por <b>referendo</b>", "seConfundeCon": "Reforma por <b>plebiscito</b> o por ley", "diferencia": "Art. 374: solo Congreso (acto legislativo), Asamblea Constituyente o pueblo mediante referendo. El plebiscito apoya o rechaza decisiones del Ejecutivo, no reforma la Constitución."}
+  ],
+  "procuraduria": [
+    "El art. 277 le asigna al Procurador General, por sí o por medio de sus delegados y agentes, <b>vigilar el cumplimiento de la Constitución</b>, las leyes, las decisiones judiciales y los actos administrativos: la supremacía constitucional es la base de su misión.",
+    "El art. 6 (responsabilidad por omisión o extralimitación) es el fundamento constitucional del <b>régimen disciplinario</b> que hoy desarrolla el Código General Disciplinario (Ley 1952 de 2019, reformada por la Ley 2094 de 2021).",
+    "Como Técnico Administrativo eres servidor público: solo puedes hacer lo que te permiten tus funciones y debes hacer lo que te ordenan; dejar de tramitar o tramitar más allá de lo asignado puede generar responsabilidad.",
+    "La prevalencia del interés general y la dignidad humana orientan la defensa de los intereses de la sociedad que el art. 277 encarga al Ministerio Público."
+  ],
+  "altaProbabilidad": [
+    "Texto del art. 1 (Estado social de derecho, república unitaria, descentralizada… dignidad humana, trabajo, solidaridad, prevalencia del interés general).",
+    "Soberanía: reside <b>exclusivamente en el pueblo</b> (art. 3).",
+    "Art. 6: particulares vs. servidores públicos (omisión o extralimitación).",
+    "Art. 4: norma de normas, excepción de inconstitucionalidad y deber de nacionales y extranjeros.",
+    "Art. 93: tratados de DD. HH. ratificados prevalecen en el orden interno.",
+    "Art. 374: tres vías de reforma (Congreso, Asamblea Constituyente, referendo).",
+    "Ubicación del Ministerio Público en el Título X (organismos de control)."
+  ],
+  "ejemplos": [
+    {"titulo": "Omisión de un servidor", "caso": "Un técnico recibe un oficio para radicar y remitir al área competente, pero lo deja en su escritorio dos semanas porque “nadie se lo recordó”.", "analisis": "Hay responsabilidad por <b>omisión</b> (art. 6): el servidor no solo responde por violar normas, también por no cumplir lo que su función le ordena."},
+    {"titulo": "Extralimitación", "caso": "Una técnica, para agilizar, firma ella misma la respuesta de fondo de un derecho de petición cuya firma corresponde al jefe de la dependencia.", "analisis": "Hay <b>extralimitación</b>: actuó más allá de sus funciones. La buena intención no elimina la responsabilidad."},
+    {"titulo": "Excepción de inconstitucionalidad", "caso": "Una circular interna exige a los usuarios declarar su religión para atenderlos.", "analisis": "La exigencia choca con la libertad de cultos y la igualdad. La autoridad debe aplicar la Constitución (art. 4) y abstenerse de aplicar ese requisito en el caso concreto."}
+  ],
+  "repaso": [
+    "Constitución de 1991: Preámbulo vinculante + 13 títulos + 380 artículos permanentes.",
+    "Art. 1: Estado social de derecho, república unitaria, descentralizada, autónoma, democrática, participativa y pluralista.",
+    "Art. 3: soberanía en el pueblo. Art. 4: norma de normas.",
+    "Art. 6: servidor = Constitución y leyes + omisión + extralimitación.",
+    "Art. 93: bloque de constitucionalidad. Art. 374: reforma por Congreso, Constituyente o referendo."
+  ],
+  "preguntas": [
+    {
+      "id": "1.1-01", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Según el artículo 1 de la Constitución Política, Colombia está organizada como:",
+      "opciones": [
+        "Un Estado social de derecho, en forma de república unitaria, descentralizada y con autonomía de sus entidades territoriales.",
+        "Un Estado de derecho, en forma de república federal, descentralizada y con autonomía legislativa de sus regiones.",
+        "Un Estado social de derecho, en forma de república centralizada, con delegación de funciones en los departamentos.",
+        "Un Estado democrático, en forma de república parlamentaria, unitaria y con autonomía de sus provincias."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Es la fórmula literal del art. 1: Estado social de derecho y república unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista.",
+        "Colombia no es federal: hay un solo Congreso y una sola Constitución; las regiones no tienen autonomía legislativa.",
+        "La Constitución habla de república descentralizada, no centralizada; y reconoce autonomía, no simple delegación.",
+        "Colombia tiene un sistema presidencial, no parlamentario, y la autonomía es de las entidades territoriales, no de “provincias”."
+      ],
+      "concepto": "Fórmula del art. 1: Estado social de derecho; república unitaria, descentralizada y con autonomía territorial."
+    },
+    {
+      "id": "1.1-02", "nivel": 1, "tipo": "multiple",
+      "enunciado": "De acuerdo con el artículo 3 de la Constitución de 1991, la soberanía reside:",
+      "opciones": [
+        "Esencial y exclusivamente en la Nación, que la delega en las ramas del poder.",
+        "Exclusivamente en el pueblo, del cual emana el poder público.",
+        "En el Congreso de la República, como representante del pueblo.",
+        "En el Presidente de la República, como jefe de Estado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa era la fórmula de la Constitución de 1886. La de 1991 trasladó la soberanía al pueblo.",
+        "Correcto: art. 3. El pueblo la ejerce en forma directa o por medio de sus representantes.",
+        "El Congreso representa al pueblo, pero no es el titular de la soberanía.",
+        "El Presidente es jefe de Estado, pero la soberanía no reside en él."
+      ],
+      "concepto": "Soberanía popular (art. 3) frente a soberanía nacional (Constitución de 1886)."
+    },
+    {
+      "id": "1.1-03", "nivel": 1, "tipo": "multiple",
+      "enunciado": "Sobre el idioma, el artículo 10 de la Constitución establece que:",
+      "opciones": [
+        "El castellano es el único idioma oficial y las lenguas étnicas se protegen como patrimonio cultural.",
+        "Todas las lenguas habladas en el país son oficiales en todo el territorio nacional.",
+        "El castellano es el idioma oficial y las lenguas de los grupos étnicos son oficiales en sus territorios.",
+        "El castellano es oficial y las lenguas étnicas lo son únicamente en los trámites ante la Rama Judicial."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las lenguas étnicas no son solo patrimonio: la Constitución les da carácter oficial en sus territorios.",
+        "No son oficiales en todo el país; el carácter oficial de las lenguas étnicas se limita a sus territorios.",
+        "Correcto: art. 10. Además, la enseñanza en comunidades con tradiciones lingüísticas propias será bilingüe.",
+        "La oficialidad de las lenguas étnicas no se limita a trámites judiciales; es territorial."
+      ],
+      "concepto": "Art. 10: castellano oficial; lenguas étnicas oficiales en sus territorios."
+    },
+    {
+      "id": "1.1-04", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Un Técnico Administrativo de la Procuraduría recibe un expediente para remitirlo a otra dependencia en el término establecido, pero no lo hace porque “nadie le hizo seguimiento”. Según el artículo 6 de la Constitución, su conducta:",
+      "opciones": [
+        "No genera responsabilidad, porque los servidores solo responden por infringir la Constitución y las leyes.",
+        "Puede generar responsabilidad por omisión en el ejercicio de sus funciones.",
+        "Solo genera responsabilidad si se demuestra que actuó con intención de causar daño.",
+        "Genera responsabilidad únicamente para su jefe inmediato, que debía hacer el seguimiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa regla aplica a los particulares. Los servidores responden además por omisión o extralimitación.",
+        "Correcto: el art. 6 hace responsables a los servidores públicos por omisión o extralimitación en el ejercicio de sus funciones.",
+        "El art. 6 no exige intención de causar daño; basta no cumplir lo que la función ordena.",
+        "El deber de remitir era del técnico; la falta de seguimiento del jefe no traslada su responsabilidad."
+      ],
+      "concepto": "Art. 6: responsabilidad del servidor por omisión."
+    },
+    {
+      "id": "1.1-05", "nivel": 2, "tipo": "multiple",
+      "enunciado": "¿Cuál es la diferencia entre la responsabilidad de un particular y la de un servidor público según el artículo 6?",
+      "opciones": [
+        "El particular responde por infringir la Constitución y las leyes; el servidor, además, por omisión o extralimitación de funciones.",
+        "El particular responde por omisión o extralimitación; el servidor, solo por infringir la Constitución.",
+        "Ambos responden por las mismas causas, pero el servidor recibe sanciones más severas.",
+        "El particular responde solo ante los jueces; el servidor, solo ante la Procuraduría."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: es el contenido literal del art. 6.",
+        "Invierte la regla: la omisión y la extralimitación son causas adicionales para los servidores, no para los particulares.",
+        "Las causas no son las mismas: el servidor tiene dos adicionales (omisión y extralimitación).",
+        "El art. 6 no reparte competencias entre jueces y Procuraduría; define causas de responsabilidad."
+      ],
+      "concepto": "Art. 6: el particular puede hacer lo no prohibido; el servidor solo lo que la norma le permite y debe hacer lo que le ordena."
+    },
+    {
+      "id": "1.1-06", "nivel": 2, "tipo": "multiple",
+      "enunciado": "Una resolución interna de una entidad pública ordena exigir a los usuarios su filiación religiosa para atenderlos. El servidor que atiende al público debe:",
+      "opciones": [
+        "Aplicar la resolución, porque los actos administrativos se presumen legales hasta que un juez los anule.",
+        "Aplicar la resolución y luego informar al jefe sobre su posible inconstitucionalidad.",
+        "Dejar de aplicar ese requisito en el caso concreto, porque la Constitución prevalece sobre la norma incompatible.",
+        "Suspender la atención al público hasta que la Corte Constitucional se pronuncie sobre la resolución."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La presunción de legalidad cede ante una incompatibilidad manifiesta con la Constitución (art. 4).",
+        "Aplicarla primero vulneraría derechos; la Constitución ordena aplicar sus disposiciones en caso de incompatibilidad.",
+        "Correcto: es la excepción de inconstitucionalidad (art. 4), con efectos en el caso concreto.",
+        "Suspender el servicio desconoce los fines del Estado; además, la Corte Constitucional no controla resoluciones internas."
+      ],
+      "concepto": "Supremacía constitucional y excepción de inconstitucionalidad (art. 4)."
+    },
+    {
+      "id": "1.1-07", "nivel": 2, "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes es un fin esencial del Estado según el artículo 2 de la Constitución?",
+      "opciones": [
+        "Garantizar la estabilidad laboral de todos los servidores públicos.",
+        "Facilitar la participación de todos en las decisiones que los afectan.",
+        "Asegurar la reserva de la información que maneja la administración.",
+        "Mantener la unidad de mando en todas las entidades públicas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La estabilidad laboral se relaciona con la carrera administrativa (art. 125), pero no es un fin esencial del art. 2.",
+        "Correcto: es uno de los fines esenciales del art. 2, junto con servir a la comunidad y garantizar la efectividad de los derechos.",
+        "La regla general es la publicidad, no la reserva; la reserva es excepcional y debe estar en la ley.",
+        "La unidad de mando es un principio de organización, no un fin esencial del Estado."
+      ],
+      "concepto": "Fines esenciales del Estado (art. 2)."
+    },
+    {
+      "id": "1.1-08", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Según el artículo 93, ¿qué tratados internacionales prevalecen en el orden interno?",
+      "opciones": [
+        "Todos los tratados firmados por el Presidente, aunque no hayan sido aprobados por el Congreso.",
+        "Los tratados comerciales ratificados que favorezcan la economía nacional.",
+        "Los tratados ratificados por el Congreso que reconocen derechos humanos y prohíben su limitación en estados de excepción.",
+        "Cualquier tratado ratificado, sin importar su materia, desde su publicación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La firma no basta; el art. 93 exige ratificación por el Congreso y que se trate de derechos humanos.",
+        "Los tratados comerciales no hacen parte del bloque por el art. 93; la norma se refiere a derechos humanos.",
+        "Correcto: es el texto del art. 93 y la base del bloque de constitucionalidad.",
+        "No cualquier tratado: el art. 93 se refiere a los de derechos humanos no limitables en estados de excepción."
+      ],
+      "concepto": "Bloque de constitucionalidad (art. 93)."
+    },
+    {
+      "id": "1.1-09", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Un compañero le pide ubicar en la Constitución las normas sobre el Procurador General de la Nación y el Ministerio Público. ¿En qué título se encuentran?",
+      "opciones": [
+        "Título VIII, De la Rama Judicial.",
+        "Título V, De la organización del Estado.",
+        "Título VII, De la Rama Ejecutiva.",
+        "Título X, De los organismos de control."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La Procuraduría no hace parte de la Rama Judicial, aunque intervenga en procesos judiciales.",
+        "El Título V trae normas generales (art. 113 y siguientes) y la función pública, pero el Ministerio Público está regulado en el Título X.",
+        "La Procuraduría no depende del Ejecutivo; es un órgano de control autónomo.",
+        "Correcto: el Título X (arts. 267–284) regula la Contraloría y el Ministerio Público."
+      ],
+      "concepto": "Mapa de la Constitución: Título X, organismos de control."
+    },
+    {
+      "id": "1.1-10", "nivel": 3, "tipo": "multiple",
+      "enunciado": "Según el artículo 374, la Constitución Política puede ser reformada por:",
+      "opciones": [
+        "El Congreso, una Asamblea Constituyente o el pueblo mediante referendo.",
+        "El Congreso mediante ley estatutaria, la Corte Constitucional o un plebiscito.",
+        "El Presidente mediante decreto legislativo, el Congreso o una consulta popular.",
+        "El Congreso, la Corte Constitucional o el pueblo mediante cabildo abierto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: son las tres vías del art. 374. El Congreso lo hace mediante acto legislativo.",
+        "La ley estatutaria no reforma la Constitución, la Corte no reforma (controla) y el plebiscito no es vía de reforma.",
+        "Los decretos legislativos (estados de excepción) no pueden reformar la Constitución, ni la consulta popular.",
+        "La Corte Constitucional no reforma la Constitución y el cabildo abierto es un espacio de deliberación local."
+      ],
+      "concepto": "Vías de reforma constitucional (art. 374)."
+    },
+    {
+      "id": "1.1-11", "nivel": 3, "tipo": "multiple",
+      "enunciado": "La expresión “república unitaria” del artículo 1 significa principalmente que:",
+      "opciones": [
+        "Todas las decisiones administrativas se toman en Bogotá y los municipios solo las ejecutan.",
+        "Existe un solo orden constitucional y un solo legislador para todo el territorio, compatible con autonomía territorial.",
+        "Las entidades territoriales pueden expedir sus propias constituciones dentro de los límites nacionales.",
+        "El Presidente concentra las funciones legislativas, ejecutivas y judiciales del Estado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Eso sería centralismo absoluto; la Constitución reconoce descentralización y autonomía territorial.",
+        "Correcto: unitaria = una sola Constitución y un solo Congreso; descentralizada = autonomía administrativa territorial.",
+        "Eso es propio de un Estado federal; en Colombia los entes territoriales no tienen poder constituyente.",
+        "La Constitución consagra la separación de poderes (art. 113), no su concentración."
+      ],
+      "concepto": "República unitaria frente a Estado federal y frente a centralismo."
+    },
+    {
+      "id": "1.1-12", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Respecto de la excepción de inconstitucionalidad, es correcto afirmar que:",
+      "opciones": [
+        "Solo puede aplicarla la Corte Constitucional y sus efectos son generales.",
+        "La aplica cualquier autoridad en un caso concreto y la norma inaplicada sigue vigente.",
+        "Al aplicarla, la autoridad deroga la norma contraria a la Constitución.",
+        "Requiere que un ciudadano presente previamente una demanda ante la Corte Constitucional."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se confunde con la acción pública de inconstitucionalidad, que sí decide la Corte con efectos generales.",
+        "Correcto: efectos inter partes; la norma no sale del ordenamiento.",
+        "Ninguna autoridad administrativa deroga normas al inaplicarlas; solo deja de aplicarlas en el caso.",
+        "No requiere demanda previa; surge directamente del art. 4."
+      ],
+      "concepto": "Excepción (inter partes) frente a acción (erga omnes) de inconstitucionalidad."
+    },
+    {
+      "id": "1.1-13", "nivel": 4, "tipo": "multiple",
+      "enunciado": "Un ciudadano extranjero que reside temporalmente en Colombia se niega a cumplir una orden legítima de una autoridad, alegando que no es colombiano. A la luz del artículo 4:",
+      "opciones": [
+        "Tiene razón, porque la Constitución solo obliga a los nacionales colombianos.",
+        "Solo está obligado si su país tiene un tratado de reciprocidad con Colombia.",
+        "Está obligado, porque es deber de nacionales y extranjeros acatar la Constitución y las leyes y obedecer a las autoridades.",
+        "Solo está obligado frente a autoridades judiciales, no frente a autoridades administrativas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El art. 4 incluye expresamente a los extranjeros que estén en Colombia.",
+        "El deber no depende de tratados de reciprocidad; surge del art. 4.",
+        "Correcto: texto del inciso final del art. 4.",
+        "El deber de obediencia es frente a las autoridades en general, no solo las judiciales."
+      ],
+      "concepto": "Art. 4: deber de nacionales y extranjeros."
+    },
+    {
+      "id": "1.1-14", "nivel": 4, "tipo": "multiple",
+      "enunciado": "En una sede regional ubicada en territorio indígena, un integrante de la comunidad radica una solicitud escrita en su lengua nativa. La actuación más ajustada a la Constitución es:",
+      "opciones": [
+        "Devolverla, porque el castellano es el único idioma oficial en las actuaciones públicas.",
+        "Archivarla y pedirle que la presente nuevamente en castellano en un plazo de diez días.",
+        "Recibirla y tramitarla, procurando los medios para comprenderla, porque esa lengua es oficial en ese territorio.",
+        "Recibirla, pero tramitarla solo si un juez ordena su traducción oficial."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Desconoce el art. 10: las lenguas étnicas también son oficiales en sus territorios.",
+        "Archivar por el idioma vulnera el art. 10 y el reconocimiento de la diversidad étnica y cultural (art. 7).",
+        "Correcto: arts. 7 y 10. La entidad debe garantizar el trámite en condiciones de igualdad.",
+        "No se requiere orden judicial; el deber de atenderla surge de la Constitución."
+      ],
+      "concepto": "Diversidad étnica (art. 7) y oficialidad territorial de las lenguas étnicas (art. 10)."
+    },
+    {
+      "id": "1.1-15", "nivel": 5, "tipo": "multiple",
+      "enunciado": "Señale la afirmación CORRECTA sobre la Constitución de 1991:",
+      "opciones": [
+        "El Preámbulo carece de fuerza normativa y solo cumple una función simbólica.",
+        "El Preámbulo tiene fuerza vinculante y sirve para interpretar y controlar las demás normas.",
+        "La soberanía reside en la Nación y se ejerce exclusivamente por medio de representantes.",
+        "Los particulares responden por omisión en el cumplimiento de funciones públicas en todos los casos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La Corte Constitucional ha reconocido carácter vinculante al Preámbulo.",
+        "Correcto: el Preámbulo hace parte de la Constitución y tiene efecto normativo.",
+        "Doble error: reside en el pueblo y se ejerce en forma directa o por representantes.",
+        "La responsabilidad por omisión es la regla de los servidores públicos (art. 6); los particulares responden por infringir la Constitución y las leyes."
+      ],
+      "concepto": "Fuerza vinculante del Preámbulo."
+    },
+    {
+      "id": "1.1-16", "nivel": 5, "tipo": "multiple",
+      "enunciado": "¿Qué agrega el calificativo “social” al Estado de derecho en el artículo 1?",
+      "opciones": [
+        "Que el Estado solo debe abstenerse de interferir en la vida privada de las personas.",
+        "Que las decisiones públicas se toman por mayoría de los ciudadanos en asambleas.",
+        "Que el Estado debe actuar para garantizar condiciones materiales de vida digna y la eficacia real de los derechos.",
+        "Que la propiedad privada desaparece y se reemplaza por propiedad colectiva."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Eso describe el Estado liberal clásico de derecho, sin la dimensión social.",
+        "Eso se relaciona con la democracia participativa, no con el carácter social del Estado.",
+        "Correcto: el Estado social de derecho exige acciones positivas (salud, educación, trabajo, vivienda) y protección efectiva de la dignidad.",
+        "La Constitución garantiza la propiedad privada con función social y ecológica (art. 58); no la elimina."
+      ],
+      "concepto": "Estado social de derecho: dimensión prestacional y eficacia material de los derechos."
+    }
+  ]
+}

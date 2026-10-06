@@ -1,0 +1,488 @@
+{
+  "id": "1.4",
+  "titulo": "Mecanismos de protección de los derechos",
+  "normas": [
+    "Constitución Política: arts. 86–92, 241–242",
+    "Decreto 2591 de 1991 (tutela)",
+    "Ley 393 de 1997 (acción de cumplimiento)",
+    "Ley 472 de 1998 (acciones populares y de grupo)",
+    "Ley 1437 de 2011 – CPACA, art. 144",
+    "Ley 1581 de 2012 (habeas data)"
+  ],
+  "objetivos": [
+    "Distinguir la acción de tutela, la acción de cumplimiento, las acciones populares, las acciones de grupo, el habeas corpus y el habeas data por su objeto, titular, requisitos y términos.",
+    "Aplicar la regla de subsidiariedad de la tutela y sus excepciones (perjuicio irremediable).",
+    "Reconocer el requisito de renuencia de la acción de cumplimiento y el requisito previo de la acción popular.",
+    "Conocer el papel del Ministerio Público en estos mecanismos y en el control de constitucionalidad."
+  ],
+  "explicacion": [
+    {
+      "subtitulo": "1. La idea central",
+      "parrafos": [
+        "De nada sirve reconocer derechos si no hay forma de hacerlos valer. El Capítulo 4 del Título II (arts. 83–94) crea <b>acciones judiciales</b> para que cualquier persona pueda pedir a un juez que proteja sus derechos. Para el examen, la clave es saber <b>qué protege cada acción</b>: derechos fundamentales (tutela), cumplimiento de normas (cumplimiento), derechos colectivos (popular), daños a un grupo (grupo), libertad física (habeas corpus) y datos personales (habeas data)."
+      ]
+    },
+    {
+      "subtitulo": "2. Acción de tutela (art. 86 y Decreto 2591 de 1991)",
+      "parrafos": [
+        "Protege <b>derechos constitucionales fundamentales</b> vulnerados o amenazados por la acción u omisión de cualquier autoridad pública (y, en ciertos casos, de particulares). La presenta <b>toda persona</b>, en todo momento y lugar, por sí misma o por quien actúe a su nombre (agente oficioso), mediante un procedimiento <b>preferente y sumario</b>; no requiere abogado.",
+        "<b>Término</b>: entre la solicitud y la decisión no pueden pasar más de <b>10 días</b>. El fallo es de <b>inmediato cumplimiento</b>; puede <b>impugnarse dentro de los 3 días</b> siguientes a su notificación y la segunda instancia decide en 20 días. Todos los fallos se envían a la <b>Corte Constitucional para su eventual revisión</b>.",
+        "<b>Subsidiariedad</b>: solo procede cuando no existe otro medio de defensa judicial, <b>salvo que se use como mecanismo transitorio para evitar un perjuicio irremediable</b>. Por regla general tampoco procede contra actos de carácter general, impersonal y abstracto, ni para proteger derechos colectivos (salvo que también se afecte un derecho fundamental), ni cuando el daño ya está consumado. No tiene término de caducidad, pero debe presentarse en un plazo razonable (<b>inmediatez</b>).",
+        "<b>Contra particulares</b> procede cuando: prestan un servicio público, su conducta afecta grave y directamente el interés colectivo, o el solicitante está frente a ellos en situación de <b>subordinación o indefensión</b>. Quien incumple un fallo de tutela incurre en <b>desacato</b> (arresto hasta de 6 meses y multa hasta de 20 salarios mínimos mensuales, sin perjuicio de otras sanciones)."
+      ]
+    },
+    {
+      "subtitulo": "3. Acción de cumplimiento (art. 87 y Ley 393 de 1997)",
+      "parrafos": [
+        "Toda persona puede acudir ante el juez para hacer efectivo el <b>cumplimiento de una ley o de un acto administrativo</b>. Requisito clave: <b>constituir en renuencia</b> a la autoridad, es decir, reclamarle previamente por escrito el cumplimiento; si no responde en <b>10 días</b> o se niega, se puede demandar (salvo inminencia de un perjuicio irremediable).",
+        "No procede para proteger derechos que puedan garantizarse por tutela, ni para exigir el cumplimiento de normas que <b>establezcan gastos</b>."
+      ]
+    },
+    {
+      "subtitulo": "4. Acciones populares y de grupo (art. 88 y Ley 472 de 1998)",
+      "parrafos": [
+        "<b>Acción popular</b>: protege <b>derechos e intereses colectivos</b> relacionados con el patrimonio, el espacio, la seguridad y la salubridad públicos, la <b>moral administrativa</b>, el ambiente, la libre competencia y otros de similar naturaleza. Busca evitar el daño, hacer cesar la amenaza o restituir las cosas a su estado anterior. Puede presentarla cualquier persona (también el Procurador, el Defensor del Pueblo y los personeros) y se puede promover <b>mientras subsista la amenaza o peligro</b>. Antes de demandar, por regla general, se debe pedir a la autoridad o particular que adopte las medidas; si no lo hace en <b>15 días</b>, se acude al juez (CPACA, art. 144).",
+        "<b>Acción de grupo</b> (hoy “reparación de los perjuicios causados a un grupo”): busca la <b>indemnización</b> de daños causados a un número plural de personas (mínimo <b>20</b>) en condiciones uniformes. Caduca a los <b>2 años</b> desde el daño o desde que cesó la acción causante."
+      ]
+    },
+    {
+      "subtitulo": "5. Habeas corpus, habeas data y control de constitucionalidad",
+      "parrafos": [
+        "<b>Habeas corpus</b> (art. 30, Ley 1095 de 2006): protege la libertad física frente a privaciones ilegales; ante cualquier juez; se resuelve en 36 horas. <b>Habeas data</b> (art. 15, Leyes 1266 de 2008 y 1581 de 2012): permite conocer, actualizar y rectificar datos personales; primero se reclama ante el responsable del dato y, si no se corrige, se puede acudir a la Superintendencia de Industria y Comercio o a la tutela.",
+        "<b>Acción pública de inconstitucionalidad</b> (arts. 241 y 242): cualquier ciudadano puede demandar ante la Corte Constitucional leyes y decretos con fuerza de ley. El <b>Procurador General debe intervenir en todos los procesos</b> rindiendo concepto (30 días) y la Corte decide en 60 días.",
+        "<b>Art. 92</b>: cualquier persona natural o jurídica puede pedir a la autoridad competente la aplicación de <b>sanciones penales o disciplinarias</b> derivadas de la conducta de las autoridades públicas: es el fundamento de la <b>queja disciplinaria</b> que recibe la Procuraduría."
+      ]
+    }
+  ],
+  "conceptos": [
+    {
+      "termino": "Subsidiariedad (tutela)",
+      "definicion": "La tutela solo procede si no hay otro medio judicial eficaz, salvo como mecanismo transitorio ante un perjuicio irremediable."
+    },
+    {
+      "termino": "Perjuicio irremediable",
+      "definicion": "Daño inminente, grave, que requiere medidas urgentes y que, de consumarse, no podría repararse."
+    },
+    {
+      "termino": "Agente oficioso",
+      "definicion": "Persona que presenta la tutela a nombre de otra que no puede hacerlo por sí misma."
+    },
+    {
+      "termino": "Desacato",
+      "definicion": "Incumplimiento de una orden de tutela; se sanciona con arresto hasta de 6 meses y multa hasta de 20 SMLMV."
+    },
+    {
+      "termino": "Renuencia",
+      "definicion": "Requisito de la acción de cumplimiento: reclamar previamente a la autoridad, que tiene 10 días para responder."
+    },
+    {
+      "termino": "Moral administrativa",
+      "definicion": "Derecho colectivo a que la administración actúe con rectitud y buena fe; se protege con acción popular."
+    },
+    {
+      "termino": "Acción de grupo",
+      "definicion": "Acción indemnizatoria para un grupo de al menos 20 personas afectadas por una misma causa; caduca en 2 años."
+    },
+    {
+      "termino": "Eventual revisión",
+      "definicion": "Los fallos de tutela se envían a la Corte Constitucional, que selecciona discrecionalmente cuáles revisa."
+    },
+    {
+      "termino": "Queja (art. 92)",
+      "definicion": "Derecho de cualquier persona a pedir sanciones disciplinarias o penales por la conducta de las autoridades."
+    }
+  ],
+  "confusiones": [
+    {
+      "concepto": "Acción de <b>tutela</b>",
+      "seConfundeCon": "Acción de <b>cumplimiento</b>",
+      "diferencia": "Tutela: derechos fundamentales. Cumplimiento: que se cumpla una ley o acto administrativo; exige renuencia previa y no procede si cabe la tutela."
+    },
+    {
+      "concepto": "Acción <b>popular</b>",
+      "seConfundeCon": "Acción de <b>grupo</b>",
+      "diferencia": "Popular: preventiva/restitutoria de derechos colectivos, sin caducidad mientras subsista la amenaza. Grupo: indemnizatoria, mínimo 20 personas, caduca en 2 años."
+    },
+    {
+      "concepto": "Tutela: <b>10 días</b> para fallar",
+      "seConfundeCon": "Tutela: <b>3 días</b> para impugnar",
+      "diferencia": "10 días: plazo del juez para decidir. 3 días: plazo para impugnar el fallo desde su notificación."
+    },
+    {
+      "concepto": "Renuencia: <b>10 días</b>",
+      "seConfundeCon": "Requisito previo de la acción popular: <b>15 días</b>",
+      "diferencia": "Cumplimiento: la autoridad tiene 10 días para responder el reclamo. Popular: 15 días para adoptar las medidas pedidas (CPACA, art. 144)."
+    },
+    {
+      "concepto": "Acción pública de inconstitucionalidad",
+      "seConfundeCon": "Excepción de inconstitucionalidad",
+      "diferencia": "La acción la decide la Corte con efectos generales; la excepción la aplica cualquier autoridad en un caso concreto."
+    },
+    {
+      "concepto": "Habeas corpus",
+      "seConfundeCon": "Tutela por libertad",
+      "diferencia": "Para una privación ilegal de la libertad el mecanismo idóneo es el habeas corpus (36 horas), no la tutela."
+    }
+  ],
+  "procuraduria": [
+    "El Procurador, el Defensor del Pueblo y los personeros pueden <b>interponer acciones populares</b>, y el art. 277 faculta a la PGN para interponer las acciones que considere necesarias.",
+    "El Procurador <b>rinde concepto en todos los procesos de constitucionalidad</b> (arts. 242 y 278-5).",
+    "Los agentes del Ministerio Público intervienen en procesos judiciales y pueden actuar en trámites de tutela en defensa del orden jurídico y de los derechos fundamentales (art. 277-7).",
+    "El art. 92 es la base de las <b>quejas disciplinarias</b> que llegan a la PGN; el técnico debe saber recibirlas, radicarlas y remitirlas según el procedimiento.",
+    "La Procuraduría, como entidad pública, también puede ser accionada por tutela si vulnera derechos (por ejemplo, por no responder un derecho de petición)."
+  ],
+  "altaProbabilidad": [
+    "Tutela: derechos fundamentales, 10 días, impugnación en 3 días, eventual revisión de la Corte, subsidiaria salvo perjuicio irremediable.",
+    "Tutela contra particulares: servicio público, interés colectivo, subordinación o indefensión.",
+    "Cumplimiento: ley o acto administrativo; renuencia (10 días); no para gastos ni si cabe tutela.",
+    "Popular: derechos colectivos (incluida la moral administrativa); mientras subsista la amenaza.",
+    "Grupo: 20 personas, indemnización, 2 años.",
+    "Art. 92: cualquier persona puede pedir sanciones disciplinarias."
+  ],
+  "ejemplos": [
+    {
+      "titulo": "Tutela por petición sin respuesta",
+      "caso": "Un usuario radicó un derecho de petición hace 30 días hábiles y la entidad no ha respondido.",
+      "analisis": "Se vulnera el derecho fundamental de petición (art. 23). No hay otro medio judicial eficaz para obtener la respuesta: procede la tutela."
+    },
+    {
+      "titulo": "Acción de cumplimiento",
+      "caso": "Una ley ordena a un municipio publicar un registro y el alcalde no lo hace. Un ciudadano le envía un escrito reclamando el cumplimiento y pasan 10 días sin respuesta.",
+      "analisis": "Quedó constituida la renuencia: el ciudadano puede presentar acción de cumplimiento."
+    },
+    {
+      "titulo": "Acción popular por moral administrativa",
+      "caso": "Varios vecinos advierten que un contrato público se adjudicó con evidentes irregularidades.",
+      "analisis": "La moral administrativa y el patrimonio público son derechos colectivos: procede la acción popular."
+    }
+  ],
+  "repaso": [
+    "Tutela = fundamentales · Cumplimiento = normas · Popular = colectivos · Grupo = indemnización (20 personas) · Habeas corpus = libertad · Habeas data = datos.",
+    "Tutela: 10 días para fallar, 3 para impugnar, revisión eventual.",
+    "Cumplimiento: renuencia (10 días). Popular: requisito previo (15 días).",
+    "Grupo: caduca en 2 años.",
+    "Art. 92: queja disciplinaria."
+  ],
+  "preguntas": [
+    {
+      "id": "1.4-01",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "Según el artículo 86, entre la solicitud de tutela y su resolución no podrán transcurrir más de:",
+      "opciones": [
+        "5 días.",
+        "10 días.",
+        "15 días.",
+        "30 días."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "5 días no es el término del art. 86.",
+        "Correcto: art. 86.",
+        "15 días es el término general del derecho de petición, no de la tutela.",
+        "No corresponde al término de la tutela."
+      ],
+      "concepto": "Tutela: decisión en máximo 10 días."
+    },
+    {
+      "id": "1.4-02",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "La acción de cumplimiento (art. 87) tiene por objeto:",
+      "opciones": [
+        "Proteger los derechos fundamentales amenazados por una autoridad.",
+        "Hacer efectivo el cumplimiento de una ley o de un acto administrativo.",
+        "Obtener la indemnización de daños causados a un grupo de personas.",
+        "Declarar la inconstitucionalidad de una ley."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Eso corresponde a la tutela.",
+        "Correcto: art. 87.",
+        "Eso corresponde a la acción de grupo.",
+        "Eso corresponde a la acción pública de inconstitucionalidad."
+      ],
+      "concepto": "Objeto de la acción de cumplimiento."
+    },
+    {
+      "id": "1.4-03",
+      "nivel": 1,
+      "tipo": "multiple",
+      "enunciado": "Las acciones populares del artículo 88 protegen:",
+      "opciones": [
+        "Los derechos fundamentales de una persona determinada.",
+        "Los derechos e intereses colectivos.",
+        "La libertad personal frente a capturas ilegales.",
+        "El cumplimiento de los contratos estatales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los derechos fundamentales individuales se protegen principalmente con tutela.",
+        "Correcto: patrimonio, espacio, seguridad y salubridad públicos, moral administrativa, ambiente, libre competencia, entre otros.",
+        "La libertad personal se protege con habeas corpus.",
+        "Las controversias contractuales tienen su propio medio de control."
+      ],
+      "concepto": "Acción popular: derechos colectivos."
+    },
+    {
+      "id": "1.4-04",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "Un ciudadano presenta tutela para discutir una decisión que puede controvertir ante la jurisdicción contencioso-administrativa, sin alegar ningún riesgo urgente. Lo más probable es que la tutela sea:",
+      "opciones": [
+        "Procedente, porque la tutela siempre prevalece sobre los demás medios judiciales.",
+        "Improcedente, porque existe otro medio de defensa judicial y no se acreditó un perjuicio irremediable.",
+        "Procedente, porque toda persona puede presentar tutela en todo momento.",
+        "Improcedente, porque la tutela solo procede contra particulares."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Es al revés: la tutela es subsidiaria.",
+        "Correcto: principio de subsidiariedad; la excepción es el perjuicio irremediable.",
+        "Que pueda presentarse en todo momento no significa que siempre proceda.",
+        "La tutela procede principalmente contra autoridades públicas."
+      ],
+      "concepto": "Subsidiariedad de la tutela."
+    },
+    {
+      "id": "1.4-05",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "¿En cuál de los siguientes casos procede la tutela contra un particular?",
+      "opciones": [
+        "Cuando el particular incumple un contrato de compraventa civil.",
+        "Cuando el solicitante se encuentra en estado de subordinación o indefensión frente al particular.",
+        "Cuando el particular tiene más patrimonio que el solicitante.",
+        "Cuando el particular es extranjero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un incumplimiento contractual ordinario se discute ante el juez civil.",
+        "Correcto: es uno de los tres supuestos del art. 86 (junto con servicio público y afectación grave del interés colectivo).",
+        "La diferencia patrimonial por sí sola no hace procedente la tutela.",
+        "La nacionalidad del particular es irrelevante."
+      ],
+      "concepto": "Tutela contra particulares."
+    },
+    {
+      "id": "1.4-06",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "La entidad fue notificada de un fallo de tutela en su contra y no está de acuerdo. ¿Dentro de qué término puede impugnarlo?",
+      "opciones": [
+        "Dentro de los 3 días siguientes a la notificación.",
+        "Dentro de los 5 días siguientes a la notificación.",
+        "Dentro de los 10 días siguientes a la notificación.",
+        "En cualquier momento, mientras no se haya cumplido."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcto: Decreto 2591 de 1991, art. 31. Mientras tanto, el fallo debe cumplirse.",
+        "No corresponde al término del Decreto 2591.",
+        "10 días es el plazo para fallar la primera instancia.",
+        "La impugnación tiene un término preciso; el fallo es de inmediato cumplimiento."
+      ],
+      "concepto": "Impugnación de la tutela: 3 días."
+    },
+    {
+      "id": "1.4-07",
+      "nivel": 2,
+      "tipo": "multiple",
+      "enunciado": "Antes de presentar una acción de cumplimiento, por regla general el interesado debe:",
+      "opciones": [
+        "Presentar una tutela y esperar a que sea negada.",
+        "Reclamar por escrito el cumplimiento a la autoridad y esperar su respuesta o el vencimiento de 10 días.",
+        "Obtener concepto favorable de la Procuraduría.",
+        "Agotar la conciliación extrajudicial ante un notario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No se exige tutela previa; de hecho, si cabe la tutela, la de cumplimiento no procede.",
+        "Correcto: constitución en renuencia (Ley 393 de 1997).",
+        "No se exige concepto de la Procuraduría.",
+        "La conciliación no es el requisito previo de esta acción."
+      ],
+      "concepto": "Renuencia en la acción de cumplimiento."
+    },
+    {
+      "id": "1.4-08",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Treinta personas resultaron afectadas económicamente por la misma falla en la prestación de un servicio y quieren ser indemnizadas en un solo proceso. La acción adecuada y su término de caducidad son:",
+      "opciones": [
+        "Acción popular; no tiene caducidad mientras subsista la amenaza.",
+        "Acción de grupo; 2 años desde el daño o desde que cesó la acción causante.",
+        "Acción de tutela; 4 meses desde la vulneración.",
+        "Acción de cumplimiento; 1 año desde la renuencia."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La popular protege derechos colectivos, no busca indemnizar a un grupo.",
+        "Correcto: Ley 472 de 1998 (mínimo 20 personas, caducidad de 2 años).",
+        "La tutela no es indemnizatoria ni tiene un término de caducidad legal.",
+        "La de cumplimiento no busca indemnización."
+      ],
+      "concepto": "Acción de grupo: indemnización, 20 personas, 2 años."
+    },
+    {
+      "id": "1.4-09",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Un ciudadano llama a la Procuraduría para denunciar que un funcionario municipal le exigió dinero por un trámite. Según el artículo 92 de la Constitución:",
+      "opciones": [
+        "Solo puede denunciar si es la víctima directa y actúa por medio de abogado.",
+        "Cualquier persona puede solicitar a la autoridad competente las sanciones penales o disciplinarias derivadas de la conducta de las autoridades.",
+        "Solo los servidores públicos pueden solicitar sanciones disciplinarias.",
+        "Debe acudir primero ante el alcalde antes de acudir a la Procuraduría."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No se exige ser víctima directa ni actuar por abogado.",
+        "Correcto: art. 92, fundamento de la queja disciplinaria.",
+        "El art. 92 habla de cualquier persona natural o jurídica.",
+        "No hay requisito de acudir previamente al alcalde."
+      ],
+      "concepto": "Art. 92: queja disciplinaria."
+    },
+    {
+      "id": "1.4-10",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "Un ciudadano presenta acción de cumplimiento para que se ejecute una norma que ordena construir un hospital con cargo al presupuesto. La acción es:",
+      "opciones": [
+        "Procedente, porque toda ley es exigible mediante esta acción.",
+        "Improcedente, porque no puede perseguirse el cumplimiento de normas que establezcan gastos.",
+        "Procedente, si el ciudadano demuestra que vive en el municipio.",
+        "Improcedente, porque la acción de cumplimiento solo procede frente a actos administrativos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Tiene límites: no procede para normas que establezcan gastos ni cuando cabe la tutela.",
+        "Correcto: parágrafo del art. 9 de la Ley 393 de 1997.",
+        "El domicilio no subsana la improcedencia.",
+        "Procede frente a leyes y actos administrativos (art. 87)."
+      ],
+      "concepto": "Improcedencia de la acción de cumplimiento: normas que establecen gastos."
+    },
+    {
+      "id": "1.4-11",
+      "nivel": 3,
+      "tipo": "multiple",
+      "enunciado": "¿Hasta cuándo puede promoverse una acción popular según la Ley 472 de 1998?",
+      "opciones": [
+        "Dentro de los 2 años siguientes a la ocurrencia del daño.",
+        "Durante el tiempo que subsista la amenaza o peligro al derecho colectivo.",
+        "Dentro de los 4 meses siguientes a la vulneración.",
+        "Dentro de los 30 días siguientes a la respuesta de la autoridad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "2 años es la caducidad de la acción de grupo.",
+        "Correcto: art. 11 de la Ley 472 de 1998.",
+        "No es el término de la acción popular.",
+        "No existe ese término para la acción popular."
+      ],
+      "concepto": "Acción popular: mientras subsista la amenaza."
+    },
+    {
+      "id": "1.4-12",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "Un grupo de servidores presenta tutela contra un decreto de carácter general, impersonal y abstracto que reglamenta horarios en todo el sector público. La tutela es, por regla general:",
+      "opciones": [
+        "Procedente, porque toda norma puede afectar derechos fundamentales.",
+        "Improcedente, porque la tutela no procede contra actos de carácter general, impersonal y abstracto.",
+        "Procedente, si la presenta un sindicato.",
+        "Improcedente, porque los servidores públicos no pueden presentar tutela."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La posible afectación no cambia la regla general de improcedencia contra estos actos.",
+        "Correcto: art. 6 del Decreto 2591 de 1991; esos actos se controlan con los medios de nulidad.",
+        "Quién la presenta no cambia la naturaleza del acto atacado.",
+        "Los servidores públicos sí pueden presentar tutela."
+      ],
+      "concepto": "Tutela improcedente contra actos generales, impersonales y abstractos."
+    },
+    {
+      "id": "1.4-13",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "En un proceso de constitucionalidad ante la Corte Constitucional, el Procurador General de la Nación:",
+      "opciones": [
+        "Interviene solo si la Corte lo invita.",
+        "Debe intervenir en todos los procesos rindiendo concepto.",
+        "Decide el proceso cuando la Corte no lo hace en el término legal.",
+        "Interviene solo cuando la ley demandada se refiere al Ministerio Público."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Su intervención es obligatoria, no por invitación.",
+        "Correcto: arts. 242-2 y 278-5 de la Constitución (30 días para el concepto).",
+        "El Procurador no decide; la decisión es de la Corte.",
+        "Interviene en todos los procesos, sin importar la materia."
+      ],
+      "concepto": "Concepto del Procurador en los procesos de constitucionalidad."
+    },
+    {
+      "id": "1.4-14",
+      "nivel": 4,
+      "tipo": "multiple",
+      "enunciado": "Una usuaria descubre que una base de datos registra información personal errada sobre ella. ¿Qué derecho la ampara y cuál es el primer paso?",
+      "opciones": [
+        "Habeas corpus; acudir de inmediato ante un juez penal.",
+        "Habeas data; reclamar la rectificación ante el responsable del dato.",
+        "Derecho de petición; presentar una acción popular.",
+        "Habeas data; presentar directamente acción de grupo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El habeas corpus protege la libertad física.",
+        "Correcto: art. 15 (conocer, actualizar y rectificar); primero se reclama al responsable y, si no corrige, se acude a la SIC o a la tutela.",
+        "La acción popular protege derechos colectivos, no datos personales.",
+        "La acción de grupo es indemnizatoria y requiere un grupo de al menos 20 personas."
+      ],
+      "concepto": "Habeas data: conocer, actualizar y rectificar."
+    },
+    {
+      "id": "1.4-15",
+      "nivel": 5,
+      "tipo": "multiple",
+      "enunciado": "Un servidor incumple deliberadamente una orden de tutela ya ejecutoriada. Según el Decreto 2591 de 1991, incurre en desacato, sancionable con:",
+      "opciones": [
+        "Amonestación escrita y anotación en la hoja de vida.",
+        "Arresto hasta de 6 meses y multa hasta de 20 salarios mínimos mensuales, sin perjuicio de otras sanciones.",
+        "Destitución inmediata ordenada por el juez de tutela.",
+        "Multa de 100 salarios mínimos sin posibilidad de arresto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No es la sanción por desacato.",
+        "Correcto: art. 52 del Decreto 2591 de 1991; además puede haber responsabilidad penal y disciplinaria.",
+        "El juez de tutela no destituye; la responsabilidad disciplinaria se adelanta por separado.",
+        "No corresponde a la sanción prevista."
+      ],
+      "concepto": "Desacato en tutela."
+    },
+    {
+      "id": "1.4-16",
+      "nivel": 5,
+      "tipo": "multiple",
+      "enunciado": "Antes de demandar en acción popular a una entidad por la invasión de un parque, y sin que haya perjuicio irremediable, el ciudadano debe:",
+      "opciones": [
+        "Constituir en renuencia a la entidad, que tiene 10 días para responder.",
+        "Pedir a la entidad que adopte las medidas para proteger el derecho; si no lo hace en 15 días, acudir al juez.",
+        "Presentar una tutela y esperar el fallo de segunda instancia.",
+        "Esperar 2 años para verificar si la invasión se consolida."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La renuencia con 10 días es el requisito de la acción de cumplimiento.",
+        "Correcto: requisito previo de la acción popular (CPACA, art. 144).",
+        "No se exige tutela previa.",
+        "No existe esa espera; además, la acción procede mientras subsista la amenaza."
+      ],
+      "concepto": "Requisito previo de la acción popular: 15 días."
+    }
+  ]
+}

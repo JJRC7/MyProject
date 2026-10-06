@@ -4,6 +4,10 @@ Aplicación web de estudio en **un solo archivo** (`index.html`): sin servidor y
 
 ## Cómo usarla
 
+**Versión en línea (para compartir):** https://claude.ai/artifact/Wi7ARrs8kLh6mZxRctCkUQ — es privada hasta que la compartas desde el menú «Compartir» de la página. Cada persona que la abra guarda su propio progreso en su navegador.
+
+**Archivo local:**
+
 1. Descarga `index.html` y ábrelo en el navegador (Chrome, Edge, Safari o Firefox).
 2. En el celular puedes guardarlo en el teléfono y abrirlo desde el navegador o publicarlo con GitHub Pages.
 3. El progreso se guarda en el navegador (localStorage). Usa **Ajustes → Exportar progreso** con frecuencia para tener una copia en JSON; con **Importar progreso** lo recuperas o lo pasas a otro dispositivo.
@@ -27,7 +31,7 @@ src/app.html          ← motor (HTML + CSS + JS) con el marcador __CONTENIDO_JS
 content/unidades.json ← meta, datos de la convocatoria y esqueleto de U1–U9
 content/U1/*.json     ← una lección por archivo
 unidades/U1.json      ← la unidad completa en el formato para pegar en la app (generado)
-tools/build.py        ← valida el contenido y genera index.html y unidades/*.json
+tools/build.py        ← valida el contenido y genera index.html, unidades/*.json y dist/ (versión para publicar como Artifact)
 ```
 
 ## Agregar una unidad nueva

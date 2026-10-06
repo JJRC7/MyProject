@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 TEMPLATE = ROOT / "src" / "app.html"
 OUT = ROOT / "index.html"
+ART = ROOT / "dist" / "estudio-pgn-252.html"
 MINI_N = 8
 
 
@@ -72,6 +73,15 @@ def main():
     js = js.replace("</", "<\\/")  # no cerrar el <script> por accidente
     html = TEMPLATE.read_text(encoding="utf-8").replace("__CONTENIDO_JSON__", js)
     OUT.write_text(html, encoding="utf-8")
+    # Versión para publicar como Artifact: el visor agrega su propio esqueleto
+    # (doctype, html, head, body, charset y viewport), así que se quitan aquí.
+    art = re.sub(r"(?is)<!doctype html>\s*<html[^>]*>\s*<head>\s*", "", html, count=1)
+    art = re.sub(r'(?i)<meta (charset|name="viewport"|name="theme-color")[^>]*>\s*', "", art)
+    art = re.sub(r"(?i)</head>\s*<body>\s*", "", art, count=1)
+    art = re.sub(r"(?i)\s*</body>\s*</html>\s*$", "\n", art, count=1)
+    assert art.lstrip().startswith("<title>"), "el <title> debe ir al inicio"
+    ART.parent.mkdir(exist_ok=True)
+    ART.write_text(art, encoding="utf-8")
     total = sum(len(l["preguntas"]) for u in datos["unidades"] for l in u["lecciones"])
     lecs = sum(len(u["lecciones"]) for u in datos["unidades"])
     print(f"OK: {OUT.name} · {lecs} lecciones · {total} preguntas · {len(html)//1024} KB")

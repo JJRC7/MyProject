@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#1f4e8c">
 <title>Estudio PGN 252-2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Literata:opsz,wght@7..72,600;7..72,700&display=swap">
 <style>
 :root{
   --bg:#f5f6f8; --surface:#ffffff; --surface2:#eef1f5; --text:#18202c; --muted:#5a6474; --border:#d8dde5;
@@ -12,6 +15,10 @@
   --ok:#17703f; --ok-bg:#e2f3e8; --bad:#b42318; --bad-bg:#fdeceb; --warn:#8a5a00; --warn-bg:#fff3d4;
   --info:#1f4e8c; --info-bg:#e7effa; --lock:#98a1af; --shadow:0 1px 3px rgba(16,24,40,.08);
   --radius:12px;
+  --font-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  --font-head:"Literata",Georgia,"Times New Roman",serif;
+  --scrim:rgba(16,24,40,.45);
+  color-scheme:light;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
@@ -19,6 +26,7 @@
     --primary:#6ea3e8; --primary-2:#8bb6ee; --on-primary:#0b1220;
     --ok:#5fcf8d; --ok-bg:#12301f; --bad:#ff8a80; --bad-bg:#3a1714; --warn:#f2c14e; --warn-bg:#34290d;
     --info:#8bb6ee; --info-bg:#16263b; --lock:#6b7584; --shadow:none;
+    --scrim:rgba(0,0,0,.6); color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
@@ -26,12 +34,13 @@
   --primary:#6ea3e8; --primary-2:#8bb6ee; --on-primary:#0b1220;
   --ok:#5fcf8d; --ok-bg:#12301f; --bad:#ff8a80; --bad-bg:#3a1714; --warn:#f2c14e; --warn-bg:#34290d;
   --info:#8bb6ee; --info-bg:#16263b; --lock:#6b7584; --shadow:none;
+  --scrim:rgba(0,0,0,.6); color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 var(--font-body);padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 a{color:var(--primary)}
-header.top{position:sticky;top:0;z-index:5;background:var(--surface);border-bottom:1px solid var(--border)}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--border)}
 header.top .in{max-width:780px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:10px}
 header.top h1{font-size:15px;margin:0;line-height:1.25;flex:1}
 header.top h1 small{display:block;font-weight:400;color:var(--muted);font-size:12px}
@@ -41,7 +50,8 @@ nav.bottom .in{max-width:780px;margin:0 auto;display:grid;grid-template-columns:
 nav.bottom a{display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 2px 9px;font-size:11px;color:var(--muted);text-decoration:none}
 nav.bottom a svg{width:22px;height:22px}
 nav.bottom a.on{color:var(--primary);font-weight:600}
-h2{font-size:20px;margin:6px 0 12px;line-height:1.3}
+h1,h2,h3{font-family:var(--font-head);text-wrap:balance}
+h2{font-size:21px;margin:6px 0 12px;line-height:1.3}
 h3{font-size:17px;margin:0 0 8px;line-height:1.35}
 h4{font-size:15px;margin:14px 0 6px}
 p{margin:0 0 10px}
@@ -124,7 +134,7 @@ td.num,th.num{text-align:right;white-space:nowrap}
 .dots button.cur{outline:2px solid var(--primary)}
 .timer{font-variant-numeric:tabular-nums;font-weight:700}
 .timer.low{color:var(--bad)}
-.score{font-size:44px;font-weight:800;line-height:1;margin:4px 0}
+.score{font-family:var(--font-head);font-size:44px;font-weight:700;line-height:1;margin:4px 0;font-variant-numeric:tabular-nums}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:0 0 14px}
 .kpi{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:10px 12px}
 .kpi b{display:block;font-size:22px}
@@ -137,6 +147,13 @@ input[type=date],input[type=number],select{font:inherit;padding:8px 10px;border-
 .field{display:flex;flex-wrap:wrap;align-items:center;gap:8px;justify-content:space-between;padding:8px 0;border-top:1px solid var(--border)}
 .toast{position:fixed;left:50%;bottom:calc(84px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;z-index:20;max-width:calc(100% - 32px);box-shadow:0 4px 12px rgba(0,0,0,.2)}
 .comp{font-weight:700;color:var(--info)}
+.modal-bg{position:fixed;inset:0;z-index:30;background:var(--scrim);display:flex;align-items:flex-end;justify-content:center;padding:16px;padding-bottom:calc(16px + env(safe-area-inset-bottom,0px))}
+.modal{background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:14px;padding:18px 16px;width:100%;max-width:480px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+.modal h3{margin:0 0 6px}
+.modal .row{margin-top:14px;justify-content:flex-end}
+@media (min-width:700px){ .modal-bg{align-items:center} }
+:focus-visible{outline:3px solid var(--primary);outline-offset:2px}
+@media (prefers-reduced-motion: reduce){ *{scroll-behavior:auto!important;transition:none!important} }
 .tag-c{font-size:11px;font-weight:700;color:var(--warn);background:var(--warn-bg);border-radius:6px;padding:1px 6px}
 @media (min-width:700px){ .q-text{font-size:18px} h2{font-size:22px} }
 </style>
@@ -439,7 +456,7 @@ function iniciarSesion(tipo, ref, qs, opts){
   SES = {tipo:tipo, ref:ref, items:qs.map(function(q){ return {qid:q.id, orden:barajar(q.opciones.map(function(_,i){ return i; })), resp:null}; }),
          i:0, feedback: tipo!=='simulacro', inicio:Date.now(), fin: opts.minutos ? Date.now()+opts.minutos*60000 : null,
          terminada:false, superados:[], repasos: opts.repasos||null, resultado:null};
-  irA('#/quiz');
+  irA('#/quiz', true);
 }
 function iniciarMini(lid){
   var e = LEC[lid]; if (!e || !leccionDesbloqueada(lid)) return;
@@ -524,27 +541,45 @@ function finalizarSesion(){
   }
   SES.resultado = r;
   guardar();
-  irA('#/resultado');
+  irA('#/resultado', true);
 }
 
 /* ======================= NAVEGACIÓN ======================= */
-var ROUTE = '';
-function irA(h){ if (location.hash===h) render(); else location.hash = h; }
-window.addEventListener('hashchange', function(){
-  var h = location.hash || '#/inicio';
-  if (SES && !SES.terminada && ROUTE==='#/quiz' && h!=='#/quiz'){
-    if (!confirm('¿Salir? Perderás las respuestas de esta sesión que aún no se han guardado.')){ history.replaceState(null,'','#/quiz'); return; }
-    if (TIMER){ clearInterval(TIMER); TIMER=null; }
-    SES = null;
+// Rutas en memoria + history.pushState (el botón «atrás» funciona y no depende del hash).
+var ROUTE = '', RUTA = '#/inicio';
+function enQuiz(){ return !!(SES && !SES.terminada && ROUTE==='#/quiz'); }
+function abandonarSesion(){ if (TIMER){ clearInterval(TIMER); TIMER=null; } SES = null; }
+function pushRuta(h){ try { history.pushState({r:h}, ''); } catch(e){} }
+function irA(h, interno){
+  if (!interno && enQuiz() && h!=='#/quiz'){
+    confirmar({titulo:'¿Salir de la sesión?', texto:'Perderás las respuestas de esta sesión que aún no se han guardado.', ok:'Salir', cancelar:'Seguir respondiendo', peligro:true},
+      function(){ abandonarSesion(); irA(h); });
+    return;
   }
-  render(); window.scrollTo(0,0);
+  RUTA = h; pushRuta(h); render(); window.scrollTo(0,0);
+}
+window.addEventListener('popstate', function(ev){
+  var h = (ev.state && ev.state.r) || '#/inicio';
+  if (enQuiz() && h!=='#/quiz'){
+    pushRuta('#/quiz');
+    confirmar({titulo:'¿Salir de la sesión?', texto:'Perderás las respuestas de esta sesión que aún no se han guardado.', ok:'Salir', cancelar:'Seguir respondiendo', peligro:true},
+      function(){ abandonarSesion(); irA(h); });
+    return;
+  }
+  RUTA = h; render(); window.scrollTo(0,0);
 });
+// Enlaces internos (href="#/...") y enlaces directos con hash en el archivo independiente.
+document.addEventListener('click', function(ev){
+  var a = ev.target.closest('a[href^="#/"]'); if (!a) return;
+  ev.preventDefault(); irA(a.getAttribute('href'));
+});
+window.addEventListener('hashchange', function(){ if (/^#\//.test(location.hash)) irA(location.hash); });
 
 /* ======================= VISTAS ======================= */
 var app = document.getElementById('app');
 
 function render(){
-  var h = location.hash || '#/inicio';
+  var h = RUTA || '#/inicio';
   ROUTE = h;
   var m, html;
   if (h==='#/quiz' && SES && !SES.terminada) html = vQuiz();
@@ -904,7 +939,11 @@ function vAjustes(){
   h += '<div class="card"><h3>Simulacro</h3><div class="field"><label for="simmin">Duración (minutos) <span class="tag-c">[COMPLEMENTARIO]</span></label><input type="number" id="simmin" min="10" max="600" step="5" data-chg="simmin" value="'+(S.ajustes.minutosSimulacro||CFG.SIM_MIN)+'"></div></div>';
   h += '<div class="card"><h3>Copia de seguridad</h3><p class="small muted">Tu progreso se guarda en este navegador. Exporta un archivo JSON con frecuencia para no perderlo o para pasarlo a otro dispositivo.</p>'+
     '<div class="row"><button class="btn" data-act="exportar">Exportar progreso</button><button class="btn sec" data-act="importar">Importar progreso</button></div>'+
-    '<input type="file" id="fileImp" accept="application/json,.json" hidden></div>';
+    '<input type="file" id="fileImp" accept="application/json,.json" hidden>'+
+    '<p class="small" style="margin:12px 0 6px"><button class="btn ghost" style="min-height:36px;padding:6px 12px" data-act="verTexto">Ver la copia como texto</button></p>'+
+    '<div id="expBox" hidden><textarea id="expTxt" readonly spellcheck="false" aria-label="Copia de seguridad en texto"></textarea><div class="row" style="margin-top:8px"><button class="btn sec" data-act="copiarExp">Copiar texto</button></div></div>'+
+    '<h4>Restaurar desde texto</h4><textarea id="impTxt" spellcheck="false" placeholder="Pega aquí el texto de tu copia de seguridad" aria-label="Pegar copia de seguridad"></textarea>'+
+    '<div class="row" style="margin-top:8px"><button class="btn sec" data-act="pegarImp">Restaurar copia pegada</button></div></div>';
   var extra = leerExtra();
   h += '<div class="card"><h3>Agregar o actualizar unidad</h3><p class="small muted">Pega aquí el JSON de una unidad (por ejemplo, U2). Si ya existe una unidad con el mismo "id", se reemplaza. Se guarda en este navegador y viaja en la exportación del progreso.</p>'+
     '<textarea id="jsonUnidad" placeholder=\'{ "id": "U2", "numero": 2, "titulo": "...", "lecciones": [ ... ] }\' spellcheck="false"></textarea>'+
@@ -948,38 +987,87 @@ function iniciarTimer(){
 }
 
 /* ======================= EXPORTAR / IMPORTAR ======================= */
+function textoExport(){ return JSON.stringify({app:'pgn252-estudio', exportado:new Date().toISOString(), progreso:S, unidadesExtra:leerExtra()}, null, 1); }
+// Dentro del visor de artefactos se usa la capacidad «downloads»; en el archivo independiente, un enlace de descarga.
+var DL = null;
+if (window.claude && typeof window.claude.use==='function'){ try { window.claude.use('downloads').then(function(d){ DL = d; }, function(){}); } catch(e){} }
 function exportar(){
-  var data = {app:'pgn252-estudio', exportado:new Date().toISOString(), progreso:S, unidadesExtra:leerExtra()};
-  var blob = new Blob([JSON.stringify(data,null,1)], {type:'application/json'});
-  var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'progreso-pgn252-'+hoyStr()+'.json';
+  var nombre = 'progreso-pgn252-'+hoyStr()+'.json', txt = textoExport();
+  if (DL){
+    DL.save({filename:nombre, data:txt}).then(function(r){ toast(r && r.status==='delivered' ? 'Copia enviada.' : 'Copia de seguridad guardada.'); }, function(e){
+      var c = e && e.code;
+      if (c==='declined') toast('Descarga cancelada.');
+      else if (c==='rate_limited') toast('Ya hay una descarga pendiente de confirmar.');
+      else { toast('No se pudo descargar aquí. Copia el texto de respaldo.'); mostrarTextoExport(); }
+    });
+    return;
+  }
+  if (window.claude){ mostrarTextoExport(); return; } // visor sin descargas: copiar como texto
+  var blob = new Blob([txt], {type:'application/json'});
+  var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nombre;
   document.body.appendChild(a); a.click(); setTimeout(function(){ URL.revokeObjectURL(a.href); a.remove(); }, 500);
-  toast('Progreso exportado.');
+  toast('Copia de seguridad descargada.');
+}
+function mostrarTextoExport(){
+  var box = document.getElementById('expBox'); if (!box) return;
+  box.hidden = false;
+  document.getElementById('expTxt').value = textoExport();
+}
+function copiarExport(){
+  var ta = document.getElementById('expTxt'); if (!ta) return;
+  var sel = function(){ ta.focus(); ta.select(); toast('Texto seleccionado: cópialo y guárdalo en una nota o archivo.'); };
+  try { navigator.clipboard.writeText(ta.value).then(function(){ toast('Copia de seguridad copiada al portapapeles.'); }, sel); } catch(e){ sel(); }
+}
+function aplicarImport(raw, origen){
+  var d;
+  try { d = JSON.parse(raw); } catch(e){ toast('El '+origen+' no es un JSON válido.'); return; }
+  if (!d || d.app!=='pgn252-estudio' || !d.progreso){ toast('El '+origen+' no es una copia de esta app.'); return; }
+  confirmar({titulo:'¿Restaurar esta copia?', texto:'Reemplazará tu progreso actual por el de la copia del '+(d.exportado||'').slice(0,10)+'.', ok:'Restaurar'}, function(){
+    if (Array.isArray(d.unidadesExtra)) lsSet(EXTRA, JSON.stringify(d.unidadesExtra.filter(function(u){ return !validarUnidad(u).length; })));
+    cargarContenido();
+    S = normalizar(d.progreso); guardar(); aplicarTema(); toast('Progreso restaurado.'); irA('#/inicio');
+  });
 }
 function importar(file){
   var rd = new FileReader();
-  rd.onload = function(){
-    try {
-      var d = JSON.parse(rd.result);
-      if (!d || d.app!=='pgn252-estudio' || !d.progreso) throw new Error('El archivo no es una copia de esta app.');
-      if (!confirm('Esto reemplazará tu progreso actual por el del archivo ('+(d.exportado||'').slice(0,10)+'). ¿Continuar?')) return;
-      if (Array.isArray(d.unidadesExtra)) lsSet(EXTRA, JSON.stringify(d.unidadesExtra.filter(function(u){ return !validarUnidad(u).length; })));
-      cargarContenido();
-      S = normalizar(d.progreso); guardar(); aplicarTema(); toast('Progreso importado.'); irA('#/inicio');
-    } catch(e){ alert('No se pudo importar: '+e.message); }
-  };
+  rd.onload = function(){ aplicarImport(rd.result, 'archivo'); };
+  rd.onerror = function(){ toast('No se pudo leer el archivo.'); };
   rd.readAsText(file);
 }
 
 /* ======================= TEMA ======================= */
+var TEMA_HOST = document.documentElement.getAttribute('data-theme');
 function aplicarTema(){
-  var t = S.ajustes.tema;
-  if (t==='light'||t==='dark') document.documentElement.setAttribute('data-theme', t); else document.documentElement.removeAttribute('data-theme');
+  var t = S.ajustes.tema, root = document.documentElement;
+  if (t==='light'||t==='dark') root.setAttribute('data-theme', t);
+  else if (TEMA_HOST) root.setAttribute('data-theme', TEMA_HOST);
+  else root.removeAttribute('data-theme');
 }
 document.getElementById('themeBtn').addEventListener('click', function(){
-  var oscuro = S.ajustes.tema==='dark' || (S.ajustes.tema==='auto' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+  var actual = document.documentElement.getAttribute('data-theme');
+  var oscuro = actual ? actual==='dark' : !!(window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
   S.ajustes.tema = oscuro ? 'light' : 'dark'; guardar(); aplicarTema();
   if (ROUTE==='#/ajustes') render();
 });
+
+/* ======================= CONFIRMACIÓN EN LA PÁGINA ======================= */
+// Reemplaza confirm(): el visor de artefactos no muestra diálogos del navegador.
+var MODAL = null;
+function cerrarModal(){ if (MODAL){ MODAL.remove(); MODAL = null; } }
+function confirmar(o, siOk){
+  cerrarModal();
+  var prev = document.activeElement;
+  var bg = document.createElement('div'); bg.className = 'modal-bg';
+  bg.innerHTML = '<div class="modal" role="dialog" aria-modal="true" aria-labelledby="mTit"><h3 id="mTit">'+esc(o.titulo)+'</h3><p>'+esc(o.texto||'')+'</p>'+
+    '<div class="row"><button class="btn ghost" id="mNo">'+esc(o.cancelar||'Cancelar')+'</button><button class="btn'+(o.peligro?' danger':'')+'" id="mSi">'+esc(o.ok||'Aceptar')+'</button></div></div>';
+  document.body.appendChild(bg); MODAL = bg;
+  var no = function(){ cerrarModal(); if (prev && prev.focus) prev.focus(); };
+  bg.querySelector('#mNo').addEventListener('click', no);
+  bg.querySelector('#mSi').addEventListener('click', function(){ cerrarModal(); siOk(); });
+  bg.addEventListener('click', function(e){ if (e.target===bg) no(); });
+  bg.addEventListener('keydown', function(e){ if (e.key==='Escape') no(); });
+  bg.querySelector('#mSi').focus();
+}
 
 /* ======================= TOAST ======================= */
 var toastT;
@@ -993,18 +1081,21 @@ app.addEventListener('click', function(ev){
   else if (a==='sig'){ if (SES.i<SES.items.length-1){ SES.i++; render(); window.scrollTo(0,0); } else finalizarSesion(); }
   else if (a==='ant'){ if (SES.i>0){ SES.i--; render(); window.scrollTo(0,0); } }
   else if (a==='goto'){ SES.i=+b.getAttribute('data-i'); render(); window.scrollTo(0,0); }
-  else if (a==='fin'){ var sin = SES.items.filter(function(x){ return x.resp===null; }).length; if (!sin || confirm('Tienes '+sin+' pregunta(s) sin responder. ¿Finalizar de todos modos?')) finalizarSesion(); }
+  else if (a==='fin'){ var sin = SES.items.filter(function(x){ return x.resp===null; }).length; if (!sin) finalizarSesion(); else confirmar({titulo:'¿Finalizar el simulacro?', texto:'Tienes '+sin+' pregunta'+(sin>1?'s':'')+' sin responder; contarán como incorrectas.', ok:'Finalizar', cancelar:'Seguir respondiendo'}, finalizarSesion); }
   else if (a==='mini') iniciarMini(id);
   else if (a==='unidad') iniciarUnidad(id);
   else if (a==='repaso') iniciarRepaso();
   else if (a==='errores') iniciarErrores();
-  else if (a==='sim'){ if (confirm('El simulacro tiene '+CFG.SIM_N+' preguntas y '+(S.ajustes.minutosSimulacro||CFG.SIM_MIN)+' minutos. ¿Comenzar?')) iniciarSimulacro(); }
+  else if (a==='sim') confirmar({titulo:'¿Comenzar el simulacro?', texto:CFG.SIM_N+' preguntas y '+(S.ajustes.minutosSimulacro||CFG.SIM_MIN)+' minutos. El temporizador empieza al confirmar.', ok:'Comenzar'}, iniciarSimulacro);
   else if (a==='ir'){ var s=document.getElementById(id); if (s) s.scrollIntoView({behavior:'smooth', block:'start'}); }
   else if (a==='exportar') exportar();
+  else if (a==='copiarExp') copiarExport();
+  else if (a==='verTexto') mostrarTextoExport();
+  else if (a==='pegarImp'){ var t = document.getElementById('impTxt'); if (t && t.value.trim()) aplicarImport(t.value.trim(), 'texto'); else toast('Pega primero el texto de tu copia de seguridad.'); }
   else if (a==='importar') document.getElementById('fileImp').click();
-  else if (a==='reset'){ if (confirm('¿Seguro? Se borrará todo tu progreso de este navegador. Exporta antes una copia si la necesitas.')){ S=estadoInicial(); guardar(); aplicarTema(); toast('Progreso borrado.'); irA('#/inicio'); } }
+  else if (a==='reset') confirmar({titulo:'¿Borrar todo tu progreso?', texto:'Se borrará el progreso guardado en este navegador. Exporta antes una copia si la necesitas.', ok:'Borrar progreso', peligro:true}, function(){ S=estadoInicial(); guardar(); aplicarTema(); toast('Progreso borrado.'); irA('#/inicio'); });
   else if (a==='addUnidad') agregarUnidad();
-  else if (a==='delUnidad'){ if (confirm('¿Quitar la unidad '+id+' agregada en este navegador?')){ lsSet(EXTRA, JSON.stringify(leerExtra().filter(function(u){ return u.id!==id; }))); cargarContenido(); render(); } }
+  else if (a==='delUnidad') confirmar({titulo:'¿Quitar la unidad '+id+'?', texto:'Se quitará la unidad agregada en este navegador. Tu progreso en ella se conserva.', ok:'Quitar', peligro:true}, function(){ lsSet(EXTRA, JSON.stringify(leerExtra().filter(function(u){ return u.id!==id; }))); cargarContenido(); render(); });
 });
 app.addEventListener('change', function(ev){
   var el = ev.target, c = el.getAttribute('data-chg');
@@ -1025,21 +1116,27 @@ function agregarUnidad(){
   toast('Unidad '+u.id+' guardada ('+u.lecciones.length+' lecciones).');
 }
 document.addEventListener('keydown', function(ev){
-  if (ROUTE!=='#/quiz' || !SES || SES.terminada || ev.target.closest('input,textarea,select')) return;
+  if (MODAL || ROUTE!=='#/quiz' || !SES || SES.terminada || ev.target.closest('input,textarea,select,button')) return;
   var k = ev.key.toUpperCase(), i = LETRAS.indexOf(k);
   if (i>=0 && i<SES.items[SES.i].orden.length){ responder(i); }
   else if (ev.key==='Enter'){ var b = app.querySelector('[data-act="sig"]'); if (b) b.click(); }
 });
 
 /* ======================= ARRANQUE ======================= */
+document.documentElement.lang = 'es';
 cargarContenido();
 aplicarTema();
-if ((!location.hash || location.hash==='#/inicio' || location.hash==='#/quiz' || location.hash==='#/resultado') && repasosVencidos().length){ history.replaceState(null,'','#/repaso'); }
-else if (location.hash==='#/quiz' || location.hash==='#/resultado'){ history.replaceState(null,'','#/inicio'); }
+(function(){
+  var h0 = /^#\//.test(location.hash) ? location.hash : '#/inicio';
+  if (h0==='#/quiz' || h0==='#/resultado') h0 = '#/inicio';
+  if (h0==='#/inicio' && repasosVencidos().length) h0 = '#/repaso';   // los repasos pendientes van primero
+  RUTA = h0;
+  try { history.replaceState({r:h0}, ''); } catch(e){}
+})();
 render();
 
 // Exponer para pruebas/depuración
-window.PGN252 = {CFG:CFG, estado:function(){ return S; }, sesion:function(){ return SES; }, validarUnidad:validarUnidad};
+window.PGN252 = {CFG:CFG, estado:function(){ return S; }, sesion:function(){ return SES; }, ruta:function(){ return ROUTE; }, ir:irA, validarUnidad:validarUnidad};
 })();
 </script>
 </body>
